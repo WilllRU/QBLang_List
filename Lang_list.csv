@@ -1,11 +1,11 @@
 keys,en,fi,myv_RU
-TITLE,QOREBIT,QOREBIT,
-PLAY,Play,Pelaa,
-CONFIG,Config,Asetukset,
-GOALS,Achievements,Saavutukset,
-INFO,Info,Tiedot,
-QUIT,Quit,Sulje,
-GM,Game mode,Pelimuoto,
-DIFF,Difficulty,Vaikeus,
-G_LVL,Level,Taso,
+TITLE,QOREBIT,QOREBIT,QOREBIT
+PLAY,Play,Pelaa,Налксемс
+CONFIG,Config,Asetukset,Аравтомкат
+GOALS,Achievements,Saavutukset,Изнявкст
+INFO,Info,Tiedot,Содамочить
+QUIT,Quit,Sulje,Пекстамс
+GM,Game mode,Pelimuoto,Налксемань мод
+DIFF,Difficulty,Vaikeus,Стакачи
+G_LVL,Level,Taso,Сэрь
 G_HI,,,
