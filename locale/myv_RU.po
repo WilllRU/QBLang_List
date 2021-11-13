@@ -10,4 +10,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Hello world!"
-msgstr ""
+msgstr "Модаланго, шумбрачи!"
