@@ -18,6 +18,7 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.0.1\n"
 
+<<<<<<< HEAD
 #: set_slider.gd:34
 msgid "Music: "
 msgstr ""
@@ -211,3 +212,7 @@ msgstr ""
 #: Scripts/GameMechanics/score_ui.gd:31
 msgid "PERFECT      {1}"
 msgstr ""
+=======
+msgid "Hello world!"
+msgstr "Модаланго, шумбрачи!"
+>>>>>>> 5e9c16ea7cd8ee357fcb6f3084f7ad407dd68510
