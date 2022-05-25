@@ -20,7 +20,7 @@ msgstr ""
 
 #: set_slider.gd:34
 msgid "Music: "
-msgstr ""
+msgstr "Музыка: "
 
 #: set_slider.gd:40
 msgid "SFX: "
@@ -28,7 +28,7 @@ msgstr ""
 
 #: set_slider.gd:46
 msgid "Palette: "
-msgstr ""
+msgstr "Палитра: "
 
 #: Scenes/Game.tscn:383
 msgid "0      00"
@@ -36,35 +36,35 @@ msgstr ""
 
 #: Scenes/Game.tscn:523 Scenes/Game.tscn:607
 msgid "Restart"
-msgstr ""
+msgstr "Нолдамс одов"
 
 #: Scenes/Game.tscn:551 Scenes/Game.tscn:635
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #: Scenes/Game.tscn:663
 msgid "Unpause"
-msgstr ""
+msgstr "Нолдамс седе тов"
 
 #: Scenes/GameScene.tscn:175
 msgid "Play"
-msgstr ""
+msgstr "Налксеме"
 
 #: Scenes/GameScene.tscn:198
 msgid "Quit"
-msgstr ""
+msgstr "Лоткамс"
 
 #: Scenes/GameScene.tscn:224 Scenes/GameScene.tscn:1012
 msgid "Info"
-msgstr ""
+msgstr "Содамга"
 
 #: Scenes/GameScene.tscn:250 Scenes/GameScene.tscn:309
 msgid "Options"
-msgstr ""
+msgstr "Кочкамкст"
 
 #: Scenes/GameScene.tscn:277
 msgid "Stats"
-msgstr ""
+msgstr "Статистикат"
 
 #: Scenes/GameScene.tscn:333 Scenes/GameScene.tscn:785
 #: Scenes/GameScene.tscn:997
@@ -73,11 +73,11 @@ msgstr "Мекев"
 
 #: Scenes/GameScene.tscn:356
 msgid "Delete"
-msgstr ""
+msgstr "Нардамс"
 
 #: Scenes/GameScene.tscn:381
 msgid "Music:"
-msgstr ""
+msgstr "Музыка:"
 
 #: Scenes/GameScene.tscn:403
 msgid "SFX:"
@@ -85,19 +85,19 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:426
 msgid "Palette:"
-msgstr ""
+msgstr "Палитра:"
 
 #: Scenes/GameScene.tscn:453
 msgid "Language Menu"
-msgstr ""
+msgstr "Келень кочкамо"
 
 #: Scenes/GameScene.tscn:477
 msgid "English"
-msgstr ""
+msgstr "Англакс"
 
 #: Scenes/GameScene.tscn:504
 msgid "Finnish"
-msgstr ""
+msgstr "Финнэкс"
 
 #: Scenes/GameScene.tscn:531
 msgid "Erzya"
@@ -123,39 +123,39 @@ msgstr "Арась"
 
 #: Scenes/GameScene.tscn:660
 msgid "QuickPlay"
-msgstr ""
+msgstr "НейкеНалксеме"
 
 #: Scenes/GameScene.tscn:683
 msgid "Infinite"
-msgstr ""
+msgstr "Певтеме"
 
 #: Scenes/GameScene.tscn:714
 msgid "Difficulty Menu"
-msgstr ""
+msgstr "Стакачинь кочкамо"
 
 #: Scenes/GameScene.tscn:736
 msgid "Normal"
-msgstr ""
+msgstr "Эрьва чинь"
 
 #: Scenes/GameScene.tscn:761
 msgid "Hard\n"
-msgstr ""
+msgstr "Стака\n"
 
 #: Scenes/GameScene.tscn:812
 msgid "Tutorial"
-msgstr ""
+msgstr "Тонавтнемка"
 
 #: Scenes/GameScene.tscn:827
 msgid "GameMode"
-msgstr ""
+msgstr "НалкшкеМод"
 
 #: Scenes/GameScene.tscn:862
 msgid "Credits"
-msgstr ""
+msgstr "Кинь шнамс"
 
 #: Scenes/SplashScreen.tscn:93
 msgid "THE GAME IS STILL IN DEVELOPMENT"
-msgstr ""
+msgstr "НЕЙГАК ВАДРЯЛГАВТТАНО НАЛКШКЕНТЬ"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid ""
@@ -166,6 +166,12 @@ msgid ""
 "\n"
 "HIGHEST COMBO: [right]{1}[/right]"
 msgstr ""
+"[center]НАЛКШКЕСЬ АШТИ[/center]\n"
+"\n"
+"\n"
+"ЛАМО БАЛТ:[right]{2}[/right]\n"
+"\n"
+"ПУРНАВКСОНЬ ТЁКШ: [right]{1}[/right]"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid ""
@@ -173,6 +179,9 @@ msgid ""
 "\n"
 "PREVIOUS HIGH SCORE:[right]{1}[/right]"
 msgstr ""
+"[rainbow freq=.2 sat=0.5 val=1]БАЛОНЬ ОД ТЁКШ![/rainbow]:[right]{0}[/right]\n"
+"\n"
+"СЕДЕ ИКЕЛЕНЬ ТЁКШ:[right]{1}[/right]"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid ""
@@ -180,6 +189,9 @@ msgid ""
 "\n"
 "HIGH SCORE:[right]{1}[/right]"
 msgstr ""
+"ЭСЕТЬ БАЛОТ:[right]{0}[/right]\n"
+"\n"
+"БАЛОНЬ ТЁКШ:[right]{1}[/right]"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
 msgid ""
@@ -187,27 +199,30 @@ msgid ""
 "\n"
 "HIGHEST COMBO: [right]{1}[/right]"
 msgstr ""
+"\n"
+"\n"
+"ПУРНАВКСОНЬ ТЁКШ: [right]{1}[/right]"
 
 #: Scripts/GameMechanics/game_data.gd:45
 msgid "Original"
-msgstr ""
+msgstr "Васень"
 
 #: Scripts/GameMechanics/game_data.gd:46
 msgid "Ice"
-msgstr ""
+msgstr "Эй"
 
 #: Scripts/GameMechanics/game_data.gd:47
 msgid "Stencil"
-msgstr ""
+msgstr "Трафарет"
 
 #: Scripts/GameMechanics/game_data.gd:48
 msgid "Vintage"
-msgstr ""
+msgstr "Икелень мазы"
 
 #: Scripts/GameMechanics/game_data.gd:49
 msgid "Nostalgia"
-msgstr ""
+msgstr "Пакшакс порань"
 
 #: Scripts/GameMechanics/score_ui.gd:31
 msgid "PERFECT      {1}"
-msgstr ""
+msgstr "ЭЙПАРО"
