@@ -24,7 +24,7 @@ msgstr "Музыка: "
 
 #: set_slider.gd:40
 msgid "SFX: "
-msgstr ""
+msgstr "Гайтть"
 
 #: set_slider.gd:46
 msgid "Palette: "
@@ -77,7 +77,7 @@ msgstr "Нардамс"
 
 #: Scenes/GameScene.tscn:378
 msgid "Language"
-msgstr ""
+msgstr "Кель"
 
 #: Scenes/GameScene.tscn:475
 msgid "Language Menu"
@@ -93,7 +93,7 @@ msgstr "Финнэкс"
 
 #: Scenes/GameScene.tscn:544
 msgid "Skolt Sami"
-msgstr ""
+msgstr "Колтской саамокс"
 
 #: Scenes/GameScene.tscn:571
 msgid "Erzya"
@@ -107,7 +107,12 @@ msgid ""
 "This might fix some update problems but will remove all your data!\n"
 "\n"
 "(The game will quit)"
-msgstr "Тонть алкулкс ули мелеть нардамс датат?"
+msgstr ""
+"Тонть алкулкс ули мелеть нардамс датат?"
+"\n"
+"Сынст нардазь витневить кона-кона ильведевкст, конат одкстомтома марто сыть, ансяк тувако ёмавтсыть весе мезе ванстыть!\n"
+"\n"
+"(Налкшкесь пекстави)"
 
 #: Scenes/GameScene.tscn:638
 msgid "Yes"
@@ -163,6 +168,13 @@ msgid ""
 "\n"
 "Delete data?"
 msgstr ""
+"Файлатнесэ ильведевкст\n"
+"\n"
+"(Файлатнесэ пурнавксданнойть а ловновить, а идевить)\n"
+"\n"
+"Пурнавксданнойтнень эрявить нардамс седе тов налксемга\n"
+"\n"
+"Нардамс даннойтнень?"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
@@ -171,7 +183,7 @@ msgstr "НАЛКШКЕСЬ АШТИ"
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "HIGH SCORE:"
-msgstr "ЛАМО БАЛТ:"
+msgstr "ВЕСЕМЕДЕ ЛАМО БАЛТ:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
