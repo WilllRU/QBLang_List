@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-31 17:21+0300\n"
+"POT-Creation-Date: 2022-05-31 17:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,64 +45,64 @@ msgstr ""
 msgid "Unpause"
 msgstr ""
 
-#: Scenes/GameScene.tscn:193
+#: Scenes/GameScene.tscn:176
 msgid "Play"
 msgstr ""
 
-#: Scenes/GameScene.tscn:216
+#: Scenes/GameScene.tscn:199
 msgid "Quit"
 msgstr ""
 
-#: Scenes/GameScene.tscn:242 Scenes/GameScene.tscn:1088
+#: Scenes/GameScene.tscn:225 Scenes/GameScene.tscn:1073
 msgid "Info"
 msgstr ""
 
-#: Scenes/GameScene.tscn:268 Scenes/GameScene.tscn:321
+#: Scenes/GameScene.tscn:251 Scenes/GameScene.tscn:304
 msgid "Options"
 msgstr ""
 
-#: Scenes/GameScene.tscn:295
+#: Scenes/GameScene.tscn:278
 msgid "Stats"
 msgstr ""
 
-#: Scenes/GameScene.tscn:345 Scenes/GameScene.tscn:860
-#: Scenes/GameScene.tscn:1075
+#: Scenes/GameScene.tscn:328 Scenes/GameScene.tscn:845
+#: Scenes/GameScene.tscn:1060
 msgid "Back"
 msgstr ""
 
-#: Scenes/GameScene.tscn:368 Scenes/SplashScreen.tscn:148
+#: Scenes/GameScene.tscn:351 Scenes/SplashScreen.tscn:149
 msgid "Delete"
 msgstr ""
 
-#: Scenes/GameScene.tscn:391
+#: Scenes/GameScene.tscn:374
 msgid "Language"
 msgstr ""
 
-#: Scenes/GameScene.tscn:489
+#: Scenes/GameScene.tscn:469
 msgid "Language Menu"
 msgstr ""
 
-#: Scenes/GameScene.tscn:510
+#: Scenes/GameScene.tscn:490
 msgid "English"
 msgstr ""
 
-#: Scenes/GameScene.tscn:534
+#: Scenes/GameScene.tscn:515
 msgid "Finnish"
 msgstr ""
 
-#: Scenes/GameScene.tscn:558
+#: Scenes/GameScene.tscn:540
 msgid "Skolt Sami"
 msgstr ""
 
-#: Scenes/GameScene.tscn:582
+#: Scenes/GameScene.tscn:565
 msgid "Komi-Zyrian"
 msgstr ""
 
-#: Scenes/GameScene.tscn:609
+#: Scenes/GameScene.tscn:593
 msgid "Erzya"
 msgstr ""
 
-#: Scenes/GameScene.tscn:641
+#: Scenes/GameScene.tscn:626
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -112,51 +112,51 @@ msgid ""
 "(The game will quit)"
 msgstr ""
 
-#: Scenes/GameScene.tscn:673
+#: Scenes/GameScene.tscn:658
 msgid "Yes"
 msgstr ""
 
-#: Scenes/GameScene.tscn:700
+#: Scenes/GameScene.tscn:685
 msgid "No"
 msgstr ""
 
-#: Scenes/GameScene.tscn:735
+#: Scenes/GameScene.tscn:720
 msgid "QuickPlay"
 msgstr ""
 
-#: Scenes/GameScene.tscn:758
+#: Scenes/GameScene.tscn:743
 msgid "Infinite"
 msgstr ""
 
-#: Scenes/GameScene.tscn:789
+#: Scenes/GameScene.tscn:774
 msgid "Difficulty Menu"
 msgstr ""
 
-#: Scenes/GameScene.tscn:811
+#: Scenes/GameScene.tscn:796
 msgid "Normal"
 msgstr ""
 
-#: Scenes/GameScene.tscn:836
+#: Scenes/GameScene.tscn:821
 msgid "Hard\n"
 msgstr ""
 
-#: Scenes/GameScene.tscn:887
+#: Scenes/GameScene.tscn:872
 msgid "Tutorial"
 msgstr ""
 
-#: Scenes/GameScene.tscn:900
+#: Scenes/GameScene.tscn:885
 msgid "GameMode"
 msgstr ""
 
-#: Scenes/GameScene.tscn:932
+#: Scenes/GameScene.tscn:917
 msgid "Credits"
 msgstr ""
 
-#: Scenes/SplashScreen.tscn:98
+#: Scenes/SplashScreen.tscn:99
 msgid "THE GAME IS STILL IN DEVELOPMENT"
 msgstr ""
 
-#: Scenes/SplashScreen.tscn:123
+#: Scenes/SplashScreen.tscn:124
 msgid ""
 "Corrupted Data found\n"
 "\n"
