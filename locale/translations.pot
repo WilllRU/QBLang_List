@@ -91,7 +91,7 @@ msgid "Finnish"
 msgstr ""
 
 #: Scenes/GameScene.tscn:544
-msgid "Skolt sami"
+msgid "Skolt Sami"
 msgstr ""
 
 #: Scenes/GameScene.tscn:571
