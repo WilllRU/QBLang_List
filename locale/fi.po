@@ -21,7 +21,7 @@ msgstr ""
 
 #: set_slider.gd:34
 msgid "Music: "
-msgstr ""
+msgstr "Musiikki: "
 
 #: set_slider.gd:40
 msgid "SFX: "
@@ -29,7 +29,7 @@ msgstr ""
 
 #: set_slider.gd:46
 msgid "Palette: "
-msgstr ""
+msgstr "Värimaailma"
 
 #: Scenes/Game.tscn:390
 msgid "0      00"
@@ -37,68 +37,68 @@ msgstr ""
 
 #: Scenes/Game.tscn:526 Scenes/Game.tscn:612
 msgid "Restart"
-msgstr ""
+msgstr "Aloita alusta"
 
 #: Scenes/Game.tscn:555 Scenes/Game.tscn:640
 msgid "Menu"
-msgstr ""
+msgstr "Valikko"
 
 #: Scenes/Game.tscn:668
 msgid "Unpause"
-msgstr ""
+msgstr "Jatka"
 
 #: Scenes/GameScene.tscn:180
 msgid "Play"
-msgstr ""
+msgstr "Aloita"
 
 #: Scenes/GameScene.tscn:203
 msgid "Quit"
-msgstr ""
+msgstr "Lopeta"
 
 #: Scenes/GameScene.tscn:229 Scenes/GameScene.tscn:1053
 msgid "Info"
-msgstr ""
+msgstr "Tietoa"
 
 #: Scenes/GameScene.tscn:255 Scenes/GameScene.tscn:308
 msgid "Options"
-msgstr ""
+msgstr "Asetukset"
 
 #: Scenes/GameScene.tscn:282
 msgid "Stats"
-msgstr ""
+msgstr "Pisteet"
 
 #: Scenes/GameScene.tscn:332 Scenes/GameScene.tscn:825
 #: Scenes/GameScene.tscn:1040
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 #: Scenes/GameScene.tscn:355 Scenes/SplashScreen.tscn:148
 msgid "Delete"
-msgstr ""
+msgstr "Poista"
 
 #: Scenes/GameScene.tscn:378
 msgid "Language"
-msgstr ""
+msgstr "Kieli"
 
 #: Scenes/GameScene.tscn:475
 msgid "Language Menu"
-msgstr ""
+msgstr "Kielivalikko"
 
 #: Scenes/GameScene.tscn:496
 msgid "English"
-msgstr ""
+msgstr "Englanti"
 
 #: Scenes/GameScene.tscn:520
 msgid "Finnish"
-msgstr ""
+msgstr "Suomi"
 
 #: Scenes/GameScene.tscn:544
 msgid "Skolt Sami"
-msgstr ""
+msgstr "Koltansaame"
 
 #: Scenes/GameScene.tscn:571
 msgid "Erzya"
-msgstr ""
+msgstr "Ersä"
 
 #: Scenes/GameScene.tscn:606
 msgid ""
@@ -109,50 +109,56 @@ msgid ""
 "\n"
 "(The game will quit)"
 msgstr ""
+"Oletko varma, että haluat\n"
+" poistaa tallennustiedostosi?\n"
+"\n"
+"Tämä saattaa korjata päivityksestä aiheutuvia ongelmia, mutta samalla se kuitenkin poistaa pelin tallennetut tiedot!\n"
+"\n"
+"(Peli sulkeutuu)"
 
 #: Scenes/GameScene.tscn:638
 msgid "Yes"
-msgstr ""
+msgstr "Olen"
 
 #: Scenes/GameScene.tscn:665
 msgid "No"
-msgstr ""
+msgstr "En"
 
 #: Scenes/GameScene.tscn:700
 msgid "QuickPlay"
-msgstr ""
+msgstr "Pika-aloitus"
 
 #: Scenes/GameScene.tscn:723
 msgid "Infinite"
-msgstr ""
+msgstr "Päättymätön"
 
 #: Scenes/GameScene.tscn:754
 msgid "Difficulty Menu"
-msgstr ""
+msgstr "Vaikeusvalikko"
 
 #: Scenes/GameScene.tscn:776
 msgid "Normal"
-msgstr ""
+msgstr "Normaali"
 
 #: Scenes/GameScene.tscn:801
 msgid "Hard\n"
-msgstr ""
+msgstr "Vaikea\n"
 
 #: Scenes/GameScene.tscn:852
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutoriaali"
 
 #: Scenes/GameScene.tscn:865
 msgid "GameMode"
-msgstr ""
+msgstr "Pelitila"
 
 #: Scenes/GameScene.tscn:897
 msgid "Credits"
-msgstr ""
+msgstr "Tekijät"
 
 #: Scenes/SplashScreen.tscn:98
 msgid "THE GAME IS STILL IN DEVELOPMENT"
-msgstr ""
+msgstr "TÄTÄ PELIÄ VIELÄ KEHITETÄÄN"
 
 #: Scenes/SplashScreen.tscn:123
 msgid ""
@@ -164,53 +170,60 @@ msgid ""
 "\n"
 "Delete data?"
 msgstr ""
+"Pelin tiedostoissa on virheitä\n"
+"\n"
+"(Tiedostoja ei voida lukea eikä pelastaa)\n"
+"\n"
+"Tallennustiedostosi täytyy poistaa ennen pelaamista\n"
+"\n"
+"Poistetaanko tiedostot?"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
-msgstr ""
+msgstr "PELI PYSÄYTETTY"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "HIGH SCORE:"
-msgstr ""
+msgstr "PARAS PISTEYTYS:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
 msgid "HIGHEST COMBO:"
-msgstr ""
+msgstr "PARAS KOMBO:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "NEW HIGH SCORE!"
-msgstr ""
+msgstr "UUSI PISTE-ENNÄTYS"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "PREVIOUS HIGH SCORE:"
-msgstr ""
+msgstr "AIEMPI PISTE-ENNÄTYS"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "YOUR SCORE:"
-msgstr ""
+msgstr "OMA PISTEYTYS:"
 
 #: Scripts/GameMechanics/game_data.gd:34
 msgid "Original"
-msgstr ""
+msgstr "Alkuperäinen"
 
 #: Scripts/GameMechanics/game_data.gd:35
 msgid "Ice"
-msgstr ""
+msgstr "Jää"
 
 #: Scripts/GameMechanics/game_data.gd:36
 msgid "Stencil"
-msgstr ""
+msgstr "Lyijyhahmo"
 
 #: Scripts/GameMechanics/game_data.gd:37
 msgid "Vintage"
-msgstr ""
+msgstr "Vintage"
 
 #: Scripts/GameMechanics/game_data.gd:38
 msgid "Nostalgia"
-msgstr ""
+msgstr "Nostalgia"
 
 #: Scripts/GameMechanics/score_ui.gd:30
 msgid "PERFECT"
-msgstr ""
+msgstr "TÄYDELLISTÄ"
