@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-25 12:10+0300\n"
-"PO-Revision-Date: 2022-05-25 13:44+0300\n"
+"POT-Creation-Date: 2022-05-31 13:49+0300\n"
+"PO-Revision-Date: 2022-05-31 14:00+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fi_FI\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -31,80 +31,76 @@ msgstr ""
 msgid "Palette: "
 msgstr ""
 
-#: Scenes/Game.tscn:383
+#: Scenes/Game.tscn:390
 msgid "0      00"
 msgstr ""
 
-#: Scenes/Game.tscn:523 Scenes/Game.tscn:607
+#: Scenes/Game.tscn:526 Scenes/Game.tscn:612
 msgid "Restart"
 msgstr ""
 
-#: Scenes/Game.tscn:551 Scenes/Game.tscn:635
+#: Scenes/Game.tscn:555 Scenes/Game.tscn:640
 msgid "Menu"
 msgstr ""
 
-#: Scenes/Game.tscn:663
+#: Scenes/Game.tscn:668
 msgid "Unpause"
 msgstr ""
 
-#: Scenes/GameScene.tscn:175
+#: Scenes/GameScene.tscn:180
 msgid "Play"
 msgstr ""
 
-#: Scenes/GameScene.tscn:198
+#: Scenes/GameScene.tscn:203
 msgid "Quit"
 msgstr ""
 
-#: Scenes/GameScene.tscn:224 Scenes/GameScene.tscn:1012
+#: Scenes/GameScene.tscn:229 Scenes/GameScene.tscn:1053
 msgid "Info"
 msgstr ""
 
-#: Scenes/GameScene.tscn:250 Scenes/GameScene.tscn:309
+#: Scenes/GameScene.tscn:255 Scenes/GameScene.tscn:308
 msgid "Options"
 msgstr ""
 
-#: Scenes/GameScene.tscn:277
+#: Scenes/GameScene.tscn:282
 msgid "Stats"
 msgstr ""
 
-#: Scenes/GameScene.tscn:333 Scenes/GameScene.tscn:785
-#: Scenes/GameScene.tscn:997
+#: Scenes/GameScene.tscn:332 Scenes/GameScene.tscn:825
+#: Scenes/GameScene.tscn:1040
 msgid "Back"
 msgstr ""
 
-#: Scenes/GameScene.tscn:356
+#: Scenes/GameScene.tscn:355 Scenes/SplashScreen.tscn:148
 msgid "Delete"
 msgstr ""
 
-#: Scenes/GameScene.tscn:381
-msgid "Music:"
+#: Scenes/GameScene.tscn:378
+msgid "Language"
 msgstr ""
 
-#: Scenes/GameScene.tscn:403
-msgid "SFX:"
-msgstr ""
-
-#: Scenes/GameScene.tscn:426
-msgid "Palette:"
-msgstr ""
-
-#: Scenes/GameScene.tscn:453
+#: Scenes/GameScene.tscn:475
 msgid "Language Menu"
 msgstr ""
 
-#: Scenes/GameScene.tscn:477
+#: Scenes/GameScene.tscn:496
 msgid "English"
 msgstr ""
 
-#: Scenes/GameScene.tscn:504
+#: Scenes/GameScene.tscn:520
 msgid "Finnish"
 msgstr ""
 
-#: Scenes/GameScene.tscn:531
+#: Scenes/GameScene.tscn:544
+msgid "Skolt sami"
+msgstr ""
+
+#: Scenes/GameScene.tscn:571
 msgid "Erzya"
 msgstr ""
 
-#: Scenes/GameScene.tscn:566
+#: Scenes/GameScene.tscn:606
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -114,101 +110,107 @@ msgid ""
 "(The game will quit)"
 msgstr ""
 
-#: Scenes/GameScene.tscn:598
+#: Scenes/GameScene.tscn:638
 msgid "Yes"
 msgstr ""
 
-#: Scenes/GameScene.tscn:625
+#: Scenes/GameScene.tscn:665
 msgid "No"
 msgstr ""
 
-#: Scenes/GameScene.tscn:660
+#: Scenes/GameScene.tscn:700
 msgid "QuickPlay"
 msgstr ""
 
-#: Scenes/GameScene.tscn:683
+#: Scenes/GameScene.tscn:723
 msgid "Infinite"
 msgstr ""
 
-#: Scenes/GameScene.tscn:714
+#: Scenes/GameScene.tscn:754
 msgid "Difficulty Menu"
 msgstr ""
 
-#: Scenes/GameScene.tscn:736
+#: Scenes/GameScene.tscn:776
 msgid "Normal"
 msgstr ""
 
-#: Scenes/GameScene.tscn:761
+#: Scenes/GameScene.tscn:801
 msgid "Hard\n"
 msgstr ""
 
-#: Scenes/GameScene.tscn:812
+#: Scenes/GameScene.tscn:852
 msgid "Tutorial"
 msgstr ""
 
-#: Scenes/GameScene.tscn:827
+#: Scenes/GameScene.tscn:865
 msgid "GameMode"
 msgstr ""
 
-#: Scenes/GameScene.tscn:862
+#: Scenes/GameScene.tscn:897
 msgid "Credits"
 msgstr ""
 
-#: Scenes/SplashScreen.tscn:93
+#: Scenes/SplashScreen.tscn:98
 msgid "THE GAME IS STILL IN DEVELOPMENT"
 msgstr ""
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+#: Scenes/SplashScreen.tscn:123
 msgid ""
-"[center]GAME PAUSED[/center]\n"
+"Corrupted Data found\n"
 "\n"
+"(The data you have can't be read and can't be salvaged)\n"
 "\n"
-"HIGH SCORE:[right]{2}[/right]\n"
+"Your data has to be deleted to play\n"
 "\n"
-"HIGHEST COMBO: [right]{1}[/right]"
+"Delete data?"
+msgstr ""
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+msgid "GAME PAUSED"
+msgstr ""
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
+msgid "HIGH SCORE:"
+msgstr ""
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
+msgid "HIGHEST COMBO:"
 msgstr ""
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
-msgid ""
-"[rainbow freq=.2 sat=0.5 val=1]NEW HIGH SCORE![/rainbow]:[right]{0}[/right]\n"
-"\n"
-"PREVIOUS HIGH SCORE:[right]{1}[/right]"
+msgid "NEW HIGH SCORE!"
+msgstr ""
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
+msgid "PREVIOUS HIGH SCORE:"
 msgstr ""
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
-msgid ""
-"YOUR SCORE:[right]{0}[/right]\n"
-"\n"
-"HIGH SCORE:[right]{1}[/right]"
+msgid "YOUR SCORE:"
 msgstr ""
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
-msgid ""
-"\n"
-"\n"
-"HIGHEST COMBO: [right]{1}[/right]"
-msgstr ""
-
-#: Scripts/GameMechanics/game_data.gd:45
+#: Scripts/GameMechanics/game_data.gd:34
 msgid "Original"
 msgstr ""
 
-#: Scripts/GameMechanics/game_data.gd:46
+#: Scripts/GameMechanics/game_data.gd:35
 msgid "Ice"
 msgstr ""
 
-#: Scripts/GameMechanics/game_data.gd:47
+#: Scripts/GameMechanics/game_data.gd:36
 msgid "Stencil"
 msgstr ""
 
-#: Scripts/GameMechanics/game_data.gd:48
+#: Scripts/GameMechanics/game_data.gd:37
 msgid "Vintage"
 msgstr ""
 
-#: Scripts/GameMechanics/game_data.gd:49
+#: Scripts/GameMechanics/game_data.gd:38
 msgid "Nostalgia"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:31
-msgid "PERFECT      {1}"
+#: Scripts/GameMechanics/score_ui.gd:30
+msgid "PERFECT"
 msgstr ""
