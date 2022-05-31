@@ -21,7 +21,7 @@ msgstr ""
 
 #: set_slider.gd:34
 msgid "Music: "
-msgstr ""
+msgstr "Musikk"
 
 #: set_slider.gd:40
 msgid "SFX: "
@@ -49,11 +49,11 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:176
 msgid "Play"
-msgstr ""
+msgstr "Aalǥât"
 
 #: Scenes/GameScene.tscn:199
 msgid "Quit"
-msgstr ""
+msgstr "looppât"
 
 #: Scenes/GameScene.tscn:225 Scenes/GameScene.tscn:1073
 msgid "Info"
@@ -70,11 +70,11 @@ msgstr ""
 #: Scenes/GameScene.tscn:328 Scenes/GameScene.tscn:845
 #: Scenes/GameScene.tscn:1060
 msgid "Back"
-msgstr ""
+msgstr "mååust"
 
 #: Scenes/GameScene.tscn:351 Scenes/SplashScreen.tscn:149
 msgid "Delete"
-msgstr ""
+msgstr "Jaukkâd"
 
 #: Scenes/GameScene.tscn:374
 msgid "Language"
@@ -86,7 +86,7 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:490
 msgid "English"
-msgstr "Eŋgglõs"
+msgstr "Eŋgglõsǩiõll"
 
 #: Scenes/GameScene.tscn:515
 msgid "Finnish"
@@ -98,7 +98,7 @@ msgstr "Sääʹmǩiõll"
 
 #: Scenes/GameScene.tscn:565
 msgid "Komi-Zyrian"
-msgstr ""
+msgstr "Komiǩiõll"
 
 #: Scenes/GameScene.tscn:593
 msgid "Erzya"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:743
 msgid "Infinite"
-msgstr ""
+msgstr "Ǩeeʹjjtem"
 
 #: Scenes/GameScene.tscn:774
 msgid "Difficulty Menu"
@@ -136,11 +136,11 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:796
 msgid "Normal"
-msgstr ""
+msgstr "Takai"
 
 #: Scenes/GameScene.tscn:821
 msgid "Hard\n"
-msgstr ""
+msgstr "Väʹǯǯel"
 
 #: Scenes/GameScene.tscn:872
 msgid "Tutorial"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:917
 msgid "Credits"
-msgstr ""
+msgstr "Späʹssbõõššâp"
 
 #: Scenes/SplashScreen.tscn:99
 msgid "THE GAME IS STILL IN DEVELOPMENT"
@@ -197,7 +197,7 @@ msgstr ""
 
 #: Scripts/GameMechanics/game_data.gd:34
 msgid "Original"
-msgstr ""
+msgstr "Alggveärlaž"
 
 #: Scripts/GameMechanics/game_data.gd:35
 msgid "Ice"
@@ -213,8 +213,8 @@ msgstr ""
 
 #: Scripts/GameMechanics/game_data.gd:38
 msgid "Nostalgia"
-msgstr ""
+msgstr "Päʹrnnpoodd"
 
 #: Scripts/GameMechanics/score_ui.gd:30
 msgid "PERFECT"
-msgstr ""
+msgstr "VÄLLJSIÕRR"
