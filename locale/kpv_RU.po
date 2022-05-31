@@ -20,15 +20,15 @@ msgstr ""
 
 #: set_slider.gd:34
 msgid "Music: "
-msgstr ""
+msgstr "Музыка"
 
 #: set_slider.gd:40
 msgid "SFX: "
-msgstr ""
+msgstr "Шыяс: "
 
 #: set_slider.gd:46
 msgid "Palette: "
-msgstr ""
+msgstr "Рӧмъяс: "
 
 #: Scenes/Game.tscn:390
 msgid "0      00"
@@ -36,68 +36,68 @@ msgstr ""
 
 #: Scenes/Game.tscn:526 Scenes/Game.tscn:612
 msgid "Restart"
-msgstr ""
+msgstr "Выль пӧв ворсны"
 
 #: Scenes/Game.tscn:555 Scenes/Game.tscn:640
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #: Scenes/Game.tscn:668
 msgid "Unpause"
-msgstr ""
+msgstr "Водзлань"
 
 #: Scenes/GameScene.tscn:180
 msgid "Play"
-msgstr ""
+msgstr "Ворсавны"
 
 #: Scenes/GameScene.tscn:203
 msgid "Quit"
-msgstr ""
+msgstr "Дугдыны"
 
 #: Scenes/GameScene.tscn:229 Scenes/GameScene.tscn:1053
 msgid "Info"
-msgstr ""
+msgstr "Инфо"
 
 #: Scenes/GameScene.tscn:255 Scenes/GameScene.tscn:308
 msgid "Options"
-msgstr ""
+msgstr "Индӧдъяс"
 
 #: Scenes/GameScene.tscn:282
 msgid "Stats"
-msgstr ""
+msgstr "Балъяс"
 
 #: Scenes/GameScene.tscn:332 Scenes/GameScene.tscn:825
 #: Scenes/GameScene.tscn:1040
 msgid "Back"
-msgstr ""
+msgstr "Бӧрвыв"
 
 #: Scenes/GameScene.tscn:355 Scenes/SplashScreen.tscn:148
 msgid "Delete"
-msgstr ""
+msgstr "Бырӧдны"
 
 #: Scenes/GameScene.tscn:378
 msgid "Language"
-msgstr ""
+msgstr "Кыв"
 
 #: Scenes/GameScene.tscn:475
 msgid "Language Menu"
-msgstr ""
+msgstr "Кыв бӧрйӧм"
 
 #: Scenes/GameScene.tscn:496
 msgid "English"
-msgstr ""
+msgstr "Англискӧй кыв"
 
 #: Scenes/GameScene.tscn:520
 msgid "Finnish"
-msgstr ""
+msgstr "Фин кыв"
 
 #: Scenes/GameScene.tscn:544
 msgid "Skolt Sami"
-msgstr ""
+msgstr "Кольт саам кыв"
 
 #: Scenes/GameScene.tscn:571
 msgid "Erzya"
-msgstr ""
+msgstr "Эрзя кыв"
 
 #: Scenes/GameScene.tscn:606
 msgid ""
@@ -108,50 +108,56 @@ msgid ""
 "\n"
 "(The game will quit)"
 msgstr ""
+"Тэ збыль кӧсъян\n"
+" бырӧдны тайӧ файл?\n"
+"\n"
+"Та бӧрын ворсӧмторйыд гашкӧ бурджыкӧн кутас уджавны, сӧмын ас датаястӧ колӧ бырӧднысӧ!\n"
+"\n"
+"(Ворсӧмторйыд дугдас)"
 
 #: Scenes/GameScene.tscn:638
 msgid "Yes"
-msgstr ""
+msgstr "Кӧсъя"
 
 #: Scenes/GameScene.tscn:665
 msgid "No"
-msgstr ""
+msgstr "Ог"
 
 #: Scenes/GameScene.tscn:700
 msgid "QuickPlay"
-msgstr ""
+msgstr "ВорсавНин"
 
 #: Scenes/GameScene.tscn:723
 msgid "Infinite"
-msgstr ""
+msgstr "Дугдывтӧг"
 
 #: Scenes/GameScene.tscn:754
 msgid "Difficulty Menu"
-msgstr ""
+msgstr "Сьӧкыдлун меню"
 
 #: Scenes/GameScene.tscn:776
 msgid "Normal"
-msgstr ""
+msgstr "Быдлунся"
 
 #: Scenes/GameScene.tscn:801
 msgid "Hard\n"
-msgstr ""
+msgstr "Сьӧкыд\n"
 
 #: Scenes/GameScene.tscn:852
 msgid "Tutorial"
-msgstr ""
+msgstr "Велӧдӧмтор"
 
 #: Scenes/GameScene.tscn:865
 msgid "GameMode"
-msgstr ""
+msgstr "Ворсанног"
 
 #: Scenes/GameScene.tscn:897
 msgid "Credits"
-msgstr ""
+msgstr "Аттьӧалам"
 
 #: Scenes/SplashScreen.tscn:98
 msgid "THE GAME IS STILL IN DEVELOPMENT"
-msgstr ""
+msgstr "ТАЙӦ ВОРСӦМТОРЙЫД АБУ НА ДАСЬ"
 
 #: Scenes/SplashScreen.tscn:123
 msgid ""
@@ -163,53 +169,60 @@ msgid ""
 "\n"
 "Delete data?"
 msgstr ""
+"Даннӧйясысь сюрӧмаӧсь тырмытӧмторъяс\n"
+"\n"
+"(Даннӧйястӧ оз позь лыддьыны дай оз позь видзны)\n"
+"\n"
+"Кӧсъян кӧ ворсны, колӧ найӧс бырӧдны\n"
+"\n"
+"Бырӧдны даннӧйяс?"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
-msgstr ""
+msgstr "ВОРСӦМТОР СУВТӦДАНА"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "HIGH SCORE:"
-msgstr ""
+msgstr "МЕДЫДЖЫД ЛЫД:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
 msgid "HIGHEST COMBO:"
-msgstr ""
+msgstr "МЕДЫДЖЫД КОМБО:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "NEW HIGH SCORE!"
-msgstr ""
+msgstr "ВЫЛЬ МЕДЫДЖЫД ЛЫД!"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "PREVIOUS HIGH SCORE:"
-msgstr ""
+msgstr "ВОДЗВЫВ МЕДЫДЖЫД ЛЫД:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "YOUR SCORE:"
-msgstr ""
+msgstr "АС БАЛЪЯС:"
 
 #: Scripts/GameMechanics/game_data.gd:34
 msgid "Original"
-msgstr ""
+msgstr "Оригинал"
 
 #: Scripts/GameMechanics/game_data.gd:35
 msgid "Ice"
-msgstr ""
+msgstr "Йи"
 
 #: Scripts/GameMechanics/game_data.gd:36
 msgid "Stencil"
-msgstr ""
+msgstr "Трафарет"
 
 #: Scripts/GameMechanics/game_data.gd:37
 msgid "Vintage"
-msgstr ""
+msgstr "Винтаж"
 
 #: Scripts/GameMechanics/game_data.gd:38
 msgid "Nostalgia"
-msgstr ""
+msgstr "Носталгия"
 
 #: Scripts/GameMechanics/score_ui.gd:30
 msgid "PERFECT"
-msgstr ""
+msgstr "МАЙБЫР"
