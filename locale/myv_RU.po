@@ -93,11 +93,11 @@ msgstr "Финнэкс"
 
 #: Scenes/GameScene.tscn:540
 msgid "Skolt Sami"
-msgstr "Колтской саамокс"
+msgstr "Колтта саамокс"
 
 #: Scenes/GameScene.tscn:565
 msgid "Komi-Zyrian"
-msgstr ""
+msgstr "Зыръян комикс"
 
 #: Scenes/GameScene.tscn:593
 msgid "Erzya"
@@ -176,7 +176,7 @@ msgstr ""
 "\n"
 "(Файлатнесэ пурнавксданнойть а ловновить, а идевить)\n"
 "\n"
-"Пурнавксданнойтнень эрявить нардамс седе тов налксемга\n"
+"Седе тов налксемга пурнавксданнойтнень эрявить нардамс\n"
 "\n"
 "Нардамс даннойтнень?"
 
