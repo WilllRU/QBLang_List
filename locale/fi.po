@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-05-31 13:49+0300\n"
-"PO-Revision-Date: 2022-05-31 14:00+0300\n"
+"PO-Revision-Date: 2022-05-31 15:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -29,7 +29,7 @@ msgstr ""
 
 #: set_slider.gd:46
 msgid "Palette: "
-msgstr "Värimaailma"
+msgstr "Värimaailma: "
 
 #: Scenes/Game.tscn:390
 msgid "0      00"
@@ -194,11 +194,11 @@ msgstr "PARAS KOMBO:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "NEW HIGH SCORE!"
-msgstr "UUSI PISTE-ENNÄTYS"
+msgstr "UUSI PISTE-ENNÄTYS!"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "PREVIOUS HIGH SCORE:"
-msgstr "AIEMPI PISTE-ENNÄTYS"
+msgstr "AIEMPI PISTE-ENNÄTYS:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "YOUR SCORE:"
