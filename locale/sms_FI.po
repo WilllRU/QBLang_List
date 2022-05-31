@@ -78,7 +78,7 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:378
 msgid "Language"
-msgstr ""
+msgstr "Ǩiõll"
 
 #: Scenes/GameScene.tscn:475
 msgid "Language Menu"
@@ -86,19 +86,19 @@ msgstr ""
 
 #: Scenes/GameScene.tscn:496
 msgid "English"
-msgstr ""
+msgstr "Eŋgglõs"
 
 #: Scenes/GameScene.tscn:520
 msgid "Finnish"
-msgstr ""
+msgstr "Lääʹddǩiõll"
 
 #: Scenes/GameScene.tscn:544
 msgid "Skolt Sami"
-msgstr ""
+msgstr "Sääʹmǩiõll"
 
 #: Scenes/GameScene.tscn:571
 msgid "Erzya"
-msgstr ""
+msgstr "Erzaǩiõll"
 
 #: Scenes/GameScene.tscn:606
 msgid ""
@@ -197,7 +197,7 @@ msgstr ""
 
 #: Scripts/GameMechanics/game_data.gd:35
 msgid "Ice"
-msgstr ""
+msgstr "Jiõŋŋ"
 
 #: Scripts/GameMechanics/game_data.gd:36
 msgid "Stencil"
