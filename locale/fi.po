@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-31 13:49+0300\n"
-"PO-Revision-Date: 2022-05-31 15:20+0300\n"
+"POT-Creation-Date: 2022-05-31 17:21+0300\n"
+"PO-Revision-Date: 2022-05-31 17:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -47,60 +47,64 @@ msgstr "Valikko"
 msgid "Unpause"
 msgstr "Jatka"
 
-#: Scenes/GameScene.tscn:180
+#: Scenes/GameScene.tscn:193
 msgid "Play"
 msgstr "Aloita"
 
-#: Scenes/GameScene.tscn:203
+#: Scenes/GameScene.tscn:216
 msgid "Quit"
 msgstr "Lopeta"
 
-#: Scenes/GameScene.tscn:229 Scenes/GameScene.tscn:1053
+#: Scenes/GameScene.tscn:242 Scenes/GameScene.tscn:1088
 msgid "Info"
 msgstr "Tietoa"
 
-#: Scenes/GameScene.tscn:255 Scenes/GameScene.tscn:308
+#: Scenes/GameScene.tscn:268 Scenes/GameScene.tscn:321
 msgid "Options"
 msgstr "Asetukset"
 
-#: Scenes/GameScene.tscn:282
+#: Scenes/GameScene.tscn:295
 msgid "Stats"
 msgstr "Pisteet"
 
-#: Scenes/GameScene.tscn:332 Scenes/GameScene.tscn:825
-#: Scenes/GameScene.tscn:1040
+#: Scenes/GameScene.tscn:345 Scenes/GameScene.tscn:860
+#: Scenes/GameScene.tscn:1075
 msgid "Back"
 msgstr "Takaisin"
 
-#: Scenes/GameScene.tscn:355 Scenes/SplashScreen.tscn:148
+#: Scenes/GameScene.tscn:368 Scenes/SplashScreen.tscn:148
 msgid "Delete"
 msgstr "Poista"
 
-#: Scenes/GameScene.tscn:378
+#: Scenes/GameScene.tscn:391
 msgid "Language"
 msgstr "Kieli"
 
-#: Scenes/GameScene.tscn:475
+#: Scenes/GameScene.tscn:489
 msgid "Language Menu"
 msgstr "Kielivalikko"
 
-#: Scenes/GameScene.tscn:496
+#: Scenes/GameScene.tscn:510
 msgid "English"
 msgstr "Englanti"
 
-#: Scenes/GameScene.tscn:520
+#: Scenes/GameScene.tscn:534
 msgid "Finnish"
 msgstr "Suomi"
 
-#: Scenes/GameScene.tscn:544
+#: Scenes/GameScene.tscn:558
 msgid "Skolt Sami"
 msgstr "Koltansaame"
 
-#: Scenes/GameScene.tscn:571
+#: Scenes/GameScene.tscn:582
+msgid "Komi-Zyrian"
+msgstr ""
+
+#: Scenes/GameScene.tscn:609
 msgid "Erzya"
 msgstr "Ersä"
 
-#: Scenes/GameScene.tscn:606
+#: Scenes/GameScene.tscn:641
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -112,47 +116,48 @@ msgstr ""
 "Oletko varma, että haluat\n"
 " poistaa tallennustiedostosi?\n"
 "\n"
-"Tämä saattaa korjata päivityksestä aiheutuvia ongelmia, mutta samalla se kuitenkin poistaa pelin tallennetut tiedot!\n"
+"Tämä saattaa korjata päivityksestä aiheutuvia ongelmia, mutta samalla se "
+"kuitenkin poistaa pelin tallennetut tiedot!\n"
 "\n"
 "(Peli sulkeutuu)"
 
-#: Scenes/GameScene.tscn:638
+#: Scenes/GameScene.tscn:673
 msgid "Yes"
 msgstr "Olen"
 
-#: Scenes/GameScene.tscn:665
+#: Scenes/GameScene.tscn:700
 msgid "No"
 msgstr "En"
 
-#: Scenes/GameScene.tscn:700
+#: Scenes/GameScene.tscn:735
 msgid "QuickPlay"
 msgstr "Pika-aloitus"
 
-#: Scenes/GameScene.tscn:723
+#: Scenes/GameScene.tscn:758
 msgid "Infinite"
 msgstr "Päättymätön"
 
-#: Scenes/GameScene.tscn:754
+#: Scenes/GameScene.tscn:789
 msgid "Difficulty Menu"
 msgstr "Vaikeusvalikko"
 
-#: Scenes/GameScene.tscn:776
+#: Scenes/GameScene.tscn:811
 msgid "Normal"
 msgstr "Normaali"
 
-#: Scenes/GameScene.tscn:801
+#: Scenes/GameScene.tscn:836
 msgid "Hard\n"
 msgstr "Vaikea\n"
 
-#: Scenes/GameScene.tscn:852
+#: Scenes/GameScene.tscn:887
 msgid "Tutorial"
 msgstr "Tutoriaali"
 
-#: Scenes/GameScene.tscn:865
+#: Scenes/GameScene.tscn:900
 msgid "GameMode"
 msgstr "Pelitila"
 
-#: Scenes/GameScene.tscn:897
+#: Scenes/GameScene.tscn:932
 msgid "Credits"
 msgstr "Tekijät"
 

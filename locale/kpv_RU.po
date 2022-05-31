@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-31 13:49+0300\n"
-"PO-Revision-Date: 2022-05-31 16:13+0300\n"
+"POT-Creation-Date: 2022-05-31 17:21+0300\n"
+"PO-Revision-Date: 2022-05-31 17:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: kpv_RU\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: set_slider.gd:34
 msgid "Music: "
-msgstr "Музыка"
+msgstr "Музыка: "
 
 #: set_slider.gd:40
 msgid "SFX: "
@@ -46,60 +46,64 @@ msgstr "Меню"
 msgid "Unpause"
 msgstr "Водзлань"
 
-#: Scenes/GameScene.tscn:180
+#: Scenes/GameScene.tscn:193
 msgid "Play"
 msgstr "Ворсавны"
 
-#: Scenes/GameScene.tscn:203
+#: Scenes/GameScene.tscn:216
 msgid "Quit"
 msgstr "Дугдыны"
 
-#: Scenes/GameScene.tscn:229 Scenes/GameScene.tscn:1053
+#: Scenes/GameScene.tscn:242 Scenes/GameScene.tscn:1088
 msgid "Info"
 msgstr "Инфо"
 
-#: Scenes/GameScene.tscn:255 Scenes/GameScene.tscn:308
+#: Scenes/GameScene.tscn:268 Scenes/GameScene.tscn:321
 msgid "Options"
 msgstr "Индӧдъяс"
 
-#: Scenes/GameScene.tscn:282
+#: Scenes/GameScene.tscn:295
 msgid "Stats"
 msgstr "Балъяс"
 
-#: Scenes/GameScene.tscn:332 Scenes/GameScene.tscn:825
-#: Scenes/GameScene.tscn:1040
+#: Scenes/GameScene.tscn:345 Scenes/GameScene.tscn:860
+#: Scenes/GameScene.tscn:1075
 msgid "Back"
 msgstr "Бӧрвыв"
 
-#: Scenes/GameScene.tscn:355 Scenes/SplashScreen.tscn:148
+#: Scenes/GameScene.tscn:368 Scenes/SplashScreen.tscn:148
 msgid "Delete"
 msgstr "Бырӧдны"
 
-#: Scenes/GameScene.tscn:378
+#: Scenes/GameScene.tscn:391
 msgid "Language"
 msgstr "Кыв"
 
-#: Scenes/GameScene.tscn:475
+#: Scenes/GameScene.tscn:489
 msgid "Language Menu"
 msgstr "Кыв бӧрйӧм"
 
-#: Scenes/GameScene.tscn:496
+#: Scenes/GameScene.tscn:510
 msgid "English"
 msgstr "Англискӧй кыв"
 
-#: Scenes/GameScene.tscn:520
+#: Scenes/GameScene.tscn:534
 msgid "Finnish"
 msgstr "Фин кыв"
 
-#: Scenes/GameScene.tscn:544
+#: Scenes/GameScene.tscn:558
 msgid "Skolt Sami"
 msgstr "Кольт саам кыв"
 
-#: Scenes/GameScene.tscn:571
+#: Scenes/GameScene.tscn:582
+msgid "Komi-Zyrian"
+msgstr ""
+
+#: Scenes/GameScene.tscn:609
 msgid "Erzya"
 msgstr "Эрзя кыв"
 
-#: Scenes/GameScene.tscn:606
+#: Scenes/GameScene.tscn:641
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -111,47 +115,48 @@ msgstr ""
 "Тэ збыль кӧсъян\n"
 " бырӧдны тайӧ файл?\n"
 "\n"
-"Та бӧрын ворсӧмторйыд гашкӧ бурджыкӧн кутас уджавны, сӧмын ас датаястӧ колӧ бырӧднысӧ!\n"
+"Та бӧрын ворсӧмторйыд гашкӧ бурджыкӧн кутас уджавны, сӧмын ас датаястӧ колӧ "
+"бырӧднысӧ!\n"
 "\n"
 "(Ворсӧмторйыд дугдас)"
 
-#: Scenes/GameScene.tscn:638
+#: Scenes/GameScene.tscn:673
 msgid "Yes"
 msgstr "Кӧсъя"
 
-#: Scenes/GameScene.tscn:665
+#: Scenes/GameScene.tscn:700
 msgid "No"
 msgstr "Ог"
 
-#: Scenes/GameScene.tscn:700
+#: Scenes/GameScene.tscn:735
 msgid "QuickPlay"
 msgstr "ВорсавНин"
 
-#: Scenes/GameScene.tscn:723
+#: Scenes/GameScene.tscn:758
 msgid "Infinite"
 msgstr "Дугдывтӧг"
 
-#: Scenes/GameScene.tscn:754
+#: Scenes/GameScene.tscn:789
 msgid "Difficulty Menu"
 msgstr "Сьӧкыдлун меню"
 
-#: Scenes/GameScene.tscn:776
+#: Scenes/GameScene.tscn:811
 msgid "Normal"
 msgstr "Быдлунся"
 
-#: Scenes/GameScene.tscn:801
+#: Scenes/GameScene.tscn:836
 msgid "Hard\n"
 msgstr "Сьӧкыд\n"
 
-#: Scenes/GameScene.tscn:852
+#: Scenes/GameScene.tscn:887
 msgid "Tutorial"
 msgstr "Велӧдӧмтор"
 
-#: Scenes/GameScene.tscn:865
+#: Scenes/GameScene.tscn:900
 msgid "GameMode"
 msgstr "Ворсанног"
 
-#: Scenes/GameScene.tscn:897
+#: Scenes/GameScene.tscn:932
 msgid "Credits"
 msgstr "Аттьӧалам"
 
