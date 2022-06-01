@@ -40,7 +40,7 @@ msgstr "Нолдамс одов"
 
 #: Scenes/Game.tscn:555 Scenes/Game.tscn:640
 msgid "Menu"
-msgstr "Меню"
+msgstr "Мезде кочкамс"
 
 #: Scenes/Game.tscn:668
 msgid "Unpause"
@@ -48,11 +48,11 @@ msgstr "Нолдамс седе тов"
 
 #: Scenes/GameScene.tscn:176
 msgid "Play"
-msgstr "Налксеме"
+msgstr "Налксемс"
 
 #: Scenes/GameScene.tscn:199
 msgid "Quit"
-msgstr "Лоткамс"
+msgstr "Лоткавтомс"
 
 #: Scenes/GameScene.tscn:225 Scenes/GameScene.tscn:1073
 msgid "Info"
@@ -60,7 +60,7 @@ msgstr "Содамга"
 
 #: Scenes/GameScene.tscn:251 Scenes/GameScene.tscn:304
 msgid "Options"
-msgstr "Мезде кочкамс"
+msgstr "Аравтомкат"
 
 #: Scenes/GameScene.tscn:278
 msgid "Stats"
@@ -112,7 +112,7 @@ msgid ""
 "\n"
 "(The game will quit)"
 msgstr ""
-"Тонть алкулкс ули мелеть нардамс датат?\n"
+"Тонть алкулкс ули мелеть нардамс даннойтнень?\n"
 "Сынст нардазь витневить кона-кона ильведевкст, конат одкстомтома марто сыть, "
 "ансяк тувако ёмавтсыть весе мезе ванстыть!\n"
 "\n"
@@ -152,7 +152,7 @@ msgstr "Тонавтнемка"
 
 #: Scenes/GameScene.tscn:885
 msgid "GameMode"
-msgstr "НалкшкеМод"
+msgstr "Налксемалув"
 
 #: Scenes/GameScene.tscn:917
 msgid "Credits"
@@ -174,15 +174,15 @@ msgid ""
 msgstr ""
 "Файлатнесэ ильведевкст\n"
 "\n"
-"(Файлатнесэ пурнавксданнойть а ловновить, а идевить)\n"
+"(Файлатнесэ пурнавкс даннойть а ловновить, а идевить)\n"
 "\n"
-"Седе тов налксемга пурнавксданнойтнень эрявить нардамс\n"
+"Седе тов налксемга пурнавкс даннойтнень эрявить нардамс\n"
 "\n"
 "Нардамс даннойтнень?"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
-msgstr "НАЛКШКЕСЬ АШТИ"
+msgstr "НАЛКШКЕСЬ ЛОТКАВТОЗЬ"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
