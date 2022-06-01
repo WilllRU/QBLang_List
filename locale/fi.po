@@ -98,7 +98,7 @@ msgstr "Koltansaame"
 
 #: Scenes/GameScene.tscn:565
 msgid "Komi-Zyrian"
-msgstr ""
+msgstr "Komi"
 
 #: Scenes/GameScene.tscn:593
 msgid "Erzya"
@@ -139,7 +139,7 @@ msgstr "Päättymätön"
 
 #: Scenes/GameScene.tscn:774
 msgid "Difficulty Menu"
-msgstr "Vaikeusvalikko"
+msgstr "Vaikeusaste"
 
 #: Scenes/GameScene.tscn:796
 msgid "Normal"
