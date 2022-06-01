@@ -60,7 +60,7 @@ msgstr "Содамга"
 
 #: Scenes/GameScene.tscn:251 Scenes/GameScene.tscn:304
 msgid "Options"
-msgstr "Мезде кочкамкс"
+msgstr "Мезде кочкамс"
 
 #: Scenes/GameScene.tscn:278
 msgid "Stats"
