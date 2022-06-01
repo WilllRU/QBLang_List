@@ -29,7 +29,7 @@ msgstr ""
 
 #: set_slider.gd:46
 msgid "Palette: "
-msgstr ""
+msgstr "Euʹnnteeʹmm"
 
 #: Scenes/Game.tscn:390
 msgid "0      00"
@@ -37,40 +37,40 @@ msgstr ""
 
 #: Scenes/Game.tscn:526 Scenes/Game.tscn:612
 msgid "Restart"
-msgstr ""
+msgstr "Alttâd aalǥâst"
 
 #: Scenes/Game.tscn:555 Scenes/Game.tscn:640
 msgid "Menu"
-msgstr ""
+msgstr "Vaʹlljõk"
 
 #: Scenes/Game.tscn:668
 msgid "Unpause"
-msgstr ""
+msgstr "Jueʹtǩ"
 
 #: Scenes/GameScene.tscn:176
 msgid "Play"
-msgstr "Aalǥât"
+msgstr "Speâllškuäʹđ"
 
 #: Scenes/GameScene.tscn:199
 msgid "Quit"
-msgstr "looppât"
+msgstr "Jõõsk"
 
 #: Scenes/GameScene.tscn:225 Scenes/GameScene.tscn:1073
 msgid "Info"
-msgstr ""
+msgstr "Teâđ"
 
 #: Scenes/GameScene.tscn:251 Scenes/GameScene.tscn:304
 msgid "Options"
-msgstr ""
+msgstr "Asetõõzz"
 
 #: Scenes/GameScene.tscn:278
 msgid "Stats"
-msgstr ""
+msgstr "Ceäkldõsmiẹʹrr"
 
 #: Scenes/GameScene.tscn:328 Scenes/GameScene.tscn:845
 #: Scenes/GameScene.tscn:1060
 msgid "Back"
-msgstr "mååust"
+msgstr "Mååust"
 
 #: Scenes/GameScene.tscn:351 Scenes/SplashScreen.tscn:149
 msgid "Delete"
@@ -82,7 +82,7 @@ msgstr "Ǩiõll"
 
 #: Scenes/GameScene.tscn:469
 msgid "Language Menu"
-msgstr ""
+msgstr "Ǩiõllvaʹlljõk"
 
 #: Scenes/GameScene.tscn:490
 msgid "English"
@@ -113,50 +113,56 @@ msgid ""
 "\n"
 "(The game will quit)"
 msgstr ""
+"Leäk-a snäätnai, što haaʹlääk\n"
+" jaukkeed ruokkâmteâttõõzz?\n"
+"\n"
+"Håʹt tät sätt teevvad peiʹvveemproʹbleeʹmid, tot jaukkad puk teâđaid še!\n"
+"\n"
+"(Speâll poott)"
 
 #: Scenes/GameScene.tscn:658
 msgid "Yes"
-msgstr ""
+msgstr "Naa"
 
 #: Scenes/GameScene.tscn:685
 msgid "No"
-msgstr ""
+msgstr "Jiõm leäkku"
 
 #: Scenes/GameScene.tscn:720
 msgid "QuickPlay"
-msgstr ""
+msgstr "Ǩeärǥspeâll"
 
 #: Scenes/GameScene.tscn:743
 msgid "Infinite"
-msgstr "Ǩeeʹjjtem"
+msgstr "Ǩeeʹjjteʹmes speâll"
 
 #: Scenes/GameScene.tscn:774
 msgid "Difficulty Menu"
-msgstr ""
+msgstr "Väʹǯǯelvuõđ tääʹzz"
 
 #: Scenes/GameScene.tscn:796
 msgid "Normal"
-msgstr "Takai"
+msgstr "Takai tääʹss"
 
 #: Scenes/GameScene.tscn:821
 msgid "Hard\n"
-msgstr "Väʹǯǯel"
+msgstr "Väʹǯǯlõs tääʹss"
 
 #: Scenes/GameScene.tscn:872
 msgid "Tutorial"
-msgstr ""
+msgstr "Mattu speâllad"
 
 #: Scenes/GameScene.tscn:885
 msgid "GameMode"
-msgstr ""
+msgstr "Jeeʹres speâllvueʹjj"
 
 #: Scenes/GameScene.tscn:917
 msgid "Credits"
-msgstr "Späʹssbõõššâp"
+msgstr "Raajji"
 
 #: Scenes/SplashScreen.tscn:99
 msgid "THE GAME IS STILL IN DEVELOPMENT"
-msgstr ""
+msgstr "SPEÂLL LIJ VÕL TUEʹJ VUEʹLNN"
 
 #: Scenes/SplashScreen.tscn:124
 msgid ""
@@ -168,32 +174,39 @@ msgid ""
 "\n"
 "Delete data?"
 msgstr ""
+"Speâll teâttõõzzin lie vââʹjj\n"
+"\n"
+"(Teâttõõzzid ij vueiʹt lookkâd ij-ǥa peälšted)\n"
+"\n"
+"Ruokkâmteâttõõzz âlgg jaukkeed, jõs haaʹlääk speâllad\n"
+"\n"
+"Haaʹlääk-a teâttõõzz jaukkeed?"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
-msgstr ""
+msgstr "SPEÂLL LIJ ÅRSÂSTTAM"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "HIGH SCORE:"
-msgstr ""
+msgstr "ŠUURMÕS CEÄKLDÕSMIẸʹRR:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
 msgid "HIGHEST COMBO:"
-msgstr ""
+msgstr "PUEʹRMÕS KOMBO:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "NEW HIGH SCORE!"
-msgstr ""
+msgstr "OĐĐ REKORDD!"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
 msgid "PREVIOUS HIGH SCORE:"
-msgstr ""
+msgstr "OOUʹDAB REKORDD:"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
 msgid "YOUR SCORE:"
-msgstr ""
+msgstr "TUU CEÄKLDÕSMIẸʹRR:"
 
 #: Scripts/GameMechanics/game_data.gd:34
 msgid "Original"
@@ -205,16 +218,16 @@ msgstr "Jiõŋŋ"
 
 #: Scripts/GameMechanics/game_data.gd:36
 msgid "Stencil"
-msgstr ""
+msgstr "Karndaš"
 
 #: Scripts/GameMechanics/game_data.gd:37
 msgid "Vintage"
-msgstr ""
+msgstr "Vintage"
 
 #: Scripts/GameMechanics/game_data.gd:38
 msgid "Nostalgia"
-msgstr "Päʹrnnpoodd"
+msgstr "Nostalgia"
 
 #: Scripts/GameMechanics/score_ui.gd:30
 msgid "PERFECT"
-msgstr "VÄLLJSIÕRR"
+msgstr "TIUDDSAŽ"
