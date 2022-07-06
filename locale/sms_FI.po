@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-31 17:49+0300\n"
-"PO-Revision-Date: 2022-05-31 17:50+0300\n"
+"POT-Creation-Date: 2022-07-06 13:28+0300\n"
+"PO-Revision-Date: 2022-07-06 13:34+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: sms_FI\n"
@@ -17,94 +17,104 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==2 ? 1 : 2);\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1\n"
 
 #: set_slider.gd:34
-msgid "Music: "
+msgid "Music"
 msgstr "Musikk"
 
 #: set_slider.gd:40
-msgid "SFX: "
+msgid "SFX"
 msgstr ""
 
 #: set_slider.gd:46
-msgid "Palette: "
+msgid "Palette"
 msgstr "Euʹnnteeʹmm"
 
-#: Scenes/Game.tscn:390
+#: Scenes/Game.tscn:393 android/build/assets/Scenes/Game.tscn:393
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:393
 msgid "0      00"
 msgstr ""
 
-#: Scenes/Game.tscn:526 Scenes/Game.tscn:612
+#: Scenes/Game.tscn:521 Scenes/Game.tscn:604
+#: android/build/assets/Scenes/Game.tscn:520
+#: android/build/assets/Scenes/Game.tscn:607
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:520
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:607
 msgid "Restart"
 msgstr "Alttâd aalǥâst"
 
-#: Scenes/Game.tscn:555 Scenes/Game.tscn:640
+#: Scenes/Game.tscn:548 Scenes/Game.tscn:633
+#: android/build/assets/Scenes/Game.tscn:549
+#: android/build/assets/Scenes/Game.tscn:635
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:549
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:635
 msgid "Menu"
 msgstr "Vaʹlljõk"
 
-#: Scenes/Game.tscn:668
+#: Scenes/Game.tscn:662 android/build/assets/Scenes/Game.tscn:663
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:663
 msgid "Unpause"
 msgstr "Jueʹtǩ"
 
-#: Scenes/GameScene.tscn:176
+#: Scenes/GameScene.tscn:195 android/build/assets/Scenes/GameScene.tscn:202
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:202
 msgid "Play"
 msgstr "Speâllškuäʹđ"
 
-#: Scenes/GameScene.tscn:199
+#: Scenes/GameScene.tscn:215 android/build/assets/Scenes/GameScene.tscn:222
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:222
 msgid "Quit"
 msgstr "Jõõsk"
 
-#: Scenes/GameScene.tscn:225 Scenes/GameScene.tscn:1073
+#: Scenes/GameScene.tscn:238 Scenes/GameScene.tscn:1082
+#: android/build/assets/Scenes/GameScene.tscn:245
+#: android/build/assets/Scenes/GameScene.tscn:989
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:245
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:989
 msgid "Info"
 msgstr "Teâđ"
 
-#: Scenes/GameScene.tscn:251 Scenes/GameScene.tscn:304
+#: Scenes/GameScene.tscn:261 Scenes/GameScene.tscn:310
+#: android/build/assets/Scenes/GameScene.tscn:268
+#: android/build/assets/Scenes/GameScene.tscn:318
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:268
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:318
 msgid "Options"
 msgstr "Asetõõzz"
 
-#: Scenes/GameScene.tscn:278
+#: Scenes/GameScene.tscn:287 Scenes/GameScene.tscn:793
+#: android/build/assets/Scenes/GameScene.tscn:295
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:295
 msgid "Stats"
 msgstr "Ceäkldõsmiẹʹrr"
 
-#: Scenes/GameScene.tscn:328 Scenes/GameScene.tscn:845
-#: Scenes/GameScene.tscn:1060
+#: Scenes/GameScene.tscn:334 Scenes/GameScene.tscn:736
+#: Scenes/GameScene.tscn:880 Scenes/GameScene.tscn:1069
+#: android/build/assets/Scenes/GameScene.tscn:342
+#: android/build/assets/Scenes/GameScene.tscn:749
+#: android/build/assets/Scenes/GameScene.tscn:976
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:342
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:749
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:976
 msgid "Back"
 msgstr "Mååust"
 
-#: Scenes/GameScene.tscn:351 Scenes/SplashScreen.tscn:149
+#: Scenes/GameScene.tscn:357 Scenes/SplashScreen.tscn:149
+#: android/build/assets/Scenes/GameScene.tscn:365
+#: android/build/assets/Scenes/SplashScreen.tscn:149
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:365
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/SplashScreen.tscn:149
 msgid "Delete"
 msgstr "Jaukkâd"
 
-#: Scenes/GameScene.tscn:374
+#: Scenes/GameScene.tscn:380 android/build/assets/Scenes/GameScene.tscn:388
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:388
 msgid "Language"
 msgstr "Ǩiõll"
 
-#: Scenes/GameScene.tscn:469
-msgid "Language Menu"
-msgstr "Ǩiõllvaʹlljõk"
-
-#: Scenes/GameScene.tscn:490
-msgid "English"
-msgstr "Eŋgglõsǩiõll"
-
-#: Scenes/GameScene.tscn:515
-msgid "Finnish"
-msgstr "Lääʹddǩiõll"
-
-#: Scenes/GameScene.tscn:540
-msgid "Skolt Sami"
-msgstr "Sääʹmǩiõll"
-
-#: Scenes/GameScene.tscn:565
-msgid "Komi-Zyrian"
-msgstr "Komiǩiõll"
-
-#: Scenes/GameScene.tscn:593
-msgid "Erzya"
-msgstr "Erzaǩiõll"
-
-#: Scenes/GameScene.tscn:626
+#: Scenes/GameScene.tscn:482 android/build/assets/Scenes/GameScene.tscn:490
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:490
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -120,51 +130,112 @@ msgstr ""
 "\n"
 "(Speâll poott)"
 
-#: Scenes/GameScene.tscn:658
+#: Scenes/GameScene.tscn:514 android/build/assets/Scenes/GameScene.tscn:522
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:522
 msgid "Yes"
 msgstr "Naa"
 
-#: Scenes/GameScene.tscn:685
+#: Scenes/GameScene.tscn:541 android/build/assets/Scenes/GameScene.tscn:549
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:549
 msgid "No"
 msgstr "Jiõm leäkku"
 
-#: Scenes/GameScene.tscn:720
+#: Scenes/GameScene.tscn:573 android/build/assets/Scenes/GameScene.tscn:586
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:586
 msgid "QuickPlay"
 msgstr "Ǩeärǥspeâll"
 
-#: Scenes/GameScene.tscn:743
+#: Scenes/GameScene.tscn:597 Scenes/Stats.gd:27
+#: android/build/assets/Scenes/GameScene.tscn:610
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:610
 msgid "Infinite"
 msgstr "Ǩeeʹjjteʹmes speâll"
 
-#: Scenes/GameScene.tscn:774
+#: Scenes/GameScene.tscn:625 android/build/assets/Scenes/GameScene.tscn:638
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:638
 msgid "Difficulty Menu"
 msgstr "Väʹǯǯelvuõđ tääʹzz"
 
-#: Scenes/GameScene.tscn:796
+#: Scenes/GameScene.tscn:647 Scenes/Stats.gd:40
+#: android/build/assets/Scenes/GameScene.tscn:660
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:660
 msgid "Normal"
 msgstr "Takai tääʹss"
 
-#: Scenes/GameScene.tscn:821
-msgid "Hard\n"
+#: Scenes/GameScene.tscn:670 Scenes/Stats.gd:42
+#: android/build/assets/Scenes/GameScene.tscn:683
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:683
+msgid "Hard"
 msgstr "Väʹǯǯlõs tääʹss"
 
-#: Scenes/GameScene.tscn:872
+#: Scenes/GameScene.tscn:692 Scenes/Stats.gd:44
+#: android/build/assets/Scenes/GameScene.tscn:705
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:705
+msgid "Expert"
+msgstr ""
+
+#: Scenes/GameScene.tscn:714 Scenes/Stats.gd:46
+#: android/build/assets/Scenes/GameScene.tscn:727
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:727
+msgid "Lunatic"
+msgstr ""
+
+#: Scenes/GameScene.tscn:763 android/build/assets/Scenes/GameScene.tscn:776
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:776
 msgid "Tutorial"
 msgstr "Mattu speâllad"
 
-#: Scenes/GameScene.tscn:885
+#: Scenes/GameScene.tscn:776 android/build/assets/Scenes/GameScene.tscn:789
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:789
 msgid "GameMode"
 msgstr "Jeeʹres speâllvueʹjj"
 
-#: Scenes/GameScene.tscn:917
+#: Scenes/GameScene.tscn:911 android/build/assets/Scenes/GameScene.tscn:819
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:819
 msgid "Credits"
 msgstr "Raajji"
 
-#: Scenes/SplashScreen.tscn:99
+#: Scenes/LanguageMenu.tscn:52 android/build/assets/Scenes/LanguageMenu.tscn:51
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:51
+msgid "English"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:75 android/build/assets/Scenes/LanguageMenu.tscn:74
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:74
+msgid "Suomi"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:98 android/build/assets/Scenes/LanguageMenu.tscn:97
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:97
+msgid "Эрзякс"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:122
+#: android/build/assets/Scenes/LanguageMenu.tscn:121
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:121
+msgid "Sääʹmǩiõll"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:143
+#: android/build/assets/Scenes/LanguageMenu.tscn:142
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:142
+msgid "Коми"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:153
+#: android/build/assets/Scenes/LanguageMenu.tscn:152
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:152
+msgid "Language Menu"
+msgstr "Ǩiõllvaʹlljõk"
+
+#: Scenes/SplashScreen.tscn:99 android/build/assets/Scenes/SplashScreen.tscn:99
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/SplashScreen.tscn:99
 msgid "THE GAME IS STILL IN DEVELOPMENT"
 msgstr "SPEÂLL LIJ VÕL TUEʹJ VUEʹLNN"
 
 #: Scenes/SplashScreen.tscn:124
+#: android/build/assets/Scenes/SplashScreen.tscn:124
+#: android/build/build/intermediates/merged_assets/debug/out/Scenes/SplashScreen.tscn:124
 msgid ""
 "Corrupted Data found\n"
 "\n"
@@ -182,52 +253,71 @@ msgstr ""
 "\n"
 "Haaʹlääk-a teâttõõzz jaukkeed?"
 
+#: Scenes/Stats.gd:7
+msgid "Scoreboard"
+msgstr ""
+
+#: Scenes/Stats.gd:21
+msgid "Quickplay"
+msgstr "Ǩeärǥspeâll"
+
+#: Scenes/Stats.gd:24
+msgid "Timed"
+msgstr ""
+
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
 msgstr "SPEÂLL LIJ ÅRSÂSTTAM"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
-msgid "HIGH SCORE:"
-msgstr "ŠUURMÕS CEÄKLDÕSMIẸʹRR:"
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:86
+msgid "HIGH SCORE"
+msgstr "ŠUURMÕS CEÄKLDÕSMIẸʹRR"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:85
-msgid "HIGHEST COMBO:"
-msgstr "PUEʹRMÕS KOMBO:"
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:88
+msgid "HIGHEST COMBO"
+msgstr "PUEʹRMÕS KOMBO"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:84
 msgid "NEW HIGH SCORE!"
 msgstr "OĐĐ REKORDD!"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:81
-msgid "PREVIOUS HIGH SCORE:"
-msgstr "OOUʹDAB REKORDD:"
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:84
+msgid "PREVIOUS HIGH SCORE"
+msgstr "OOUʹDAB REKORDD"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:83
-msgid "YOUR SCORE:"
-msgstr "TUU CEÄKLDÕSMIẸʹRR:"
-
-#: Scripts/GameMechanics/game_data.gd:34
-msgid "Original"
-msgstr "Alggveärlaž"
-
-#: Scripts/GameMechanics/game_data.gd:35
-msgid "Ice"
-msgstr "Jiõŋŋ"
-
-#: Scripts/GameMechanics/game_data.gd:36
-msgid "Stencil"
-msgstr "Karndaš"
-
-#: Scripts/GameMechanics/game_data.gd:37
-msgid "Vintage"
-msgstr "Vintage"
-
-#: Scripts/GameMechanics/game_data.gd:38
-msgid "Nostalgia"
-msgstr "Nostalgia"
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:86
+msgid "YOUR SCORE"
+msgstr "TUU CEÄKLDÕSMIẸʹRR"
 
 #: Scripts/GameMechanics/score_ui.gd:30
 msgid "PERFECT"
 msgstr "TIUDDSAŽ"
+
+#~ msgid "Finnish"
+#~ msgstr "Lääʹddǩiõll"
+
+#~ msgid "Skolt Sami"
+#~ msgstr "Sääʹmǩiõll"
+
+#~ msgid "Komi-Zyrian"
+#~ msgstr "Komiǩiõll"
+
+#~ msgid "Erzya"
+#~ msgstr "Erzaǩiõll"
+
+#~ msgid "Original"
+#~ msgstr "Alggveärlaž"
+
+#~ msgid "Ice"
+#~ msgstr "Jiõŋŋ"
+
+#~ msgid "Stencil"
+#~ msgstr "Karndaš"
+
+#~ msgid "Vintage"
+#~ msgstr "Vintage"
+
+#~ msgid "Nostalgia"
+#~ msgstr "Nostalgia"
