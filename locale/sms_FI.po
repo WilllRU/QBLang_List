@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-07-06 13:28+0300\n"
-"PO-Revision-Date: 2022-07-06 13:34+0300\n"
+"POT-Creation-Date: 2022-07-07 13:12+0300\n"
+"PO-Revision-Date: 2022-07-07 13:14+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: sms_FI\n"
@@ -31,90 +31,56 @@ msgstr ""
 msgid "Palette"
 msgstr "Euʹnnteeʹmm"
 
-#: Scenes/Game.tscn:393 android/build/assets/Scenes/Game.tscn:393
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:393
+#: Scenes/Game.tscn:406
 msgid "0      00"
 msgstr ""
 
-#: Scenes/Game.tscn:521 Scenes/Game.tscn:604
-#: android/build/assets/Scenes/Game.tscn:520
-#: android/build/assets/Scenes/Game.tscn:607
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:520
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:607
+#: Scenes/Game.tscn:534 Scenes/Game.tscn:617
 msgid "Restart"
 msgstr "Alttâd aalǥâst"
 
-#: Scenes/Game.tscn:548 Scenes/Game.tscn:633
-#: android/build/assets/Scenes/Game.tscn:549
-#: android/build/assets/Scenes/Game.tscn:635
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:549
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:635
+#: Scenes/Game.tscn:561 Scenes/Game.tscn:646
 msgid "Menu"
 msgstr "Vaʹlljõk"
 
-#: Scenes/Game.tscn:662 android/build/assets/Scenes/Game.tscn:663
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/Game.tscn:663
+#: Scenes/Game.tscn:675
 msgid "Unpause"
 msgstr "Jueʹtǩ"
 
-#: Scenes/GameScene.tscn:195 android/build/assets/Scenes/GameScene.tscn:202
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:202
+#: Scenes/GameScene.tscn:195
 msgid "Play"
 msgstr "Speâllškuäʹđ"
 
-#: Scenes/GameScene.tscn:215 android/build/assets/Scenes/GameScene.tscn:222
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:222
+#: Scenes/GameScene.tscn:215
 msgid "Quit"
 msgstr "Jõõsk"
 
-#: Scenes/GameScene.tscn:238 Scenes/GameScene.tscn:1082
-#: android/build/assets/Scenes/GameScene.tscn:245
-#: android/build/assets/Scenes/GameScene.tscn:989
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:245
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:989
+#: Scenes/GameScene.tscn:238 Scenes/GameScene.tscn:1079
 msgid "Info"
 msgstr "Teâđ"
 
 #: Scenes/GameScene.tscn:261 Scenes/GameScene.tscn:310
-#: android/build/assets/Scenes/GameScene.tscn:268
-#: android/build/assets/Scenes/GameScene.tscn:318
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:268
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:318
 msgid "Options"
 msgstr "Asetõõzz"
 
-#: Scenes/GameScene.tscn:287 Scenes/GameScene.tscn:793
-#: android/build/assets/Scenes/GameScene.tscn:295
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:295
+#: Scenes/GameScene.tscn:287 Scenes/GameScene.tscn:789
 msgid "Stats"
 msgstr "Ceäkldõsmiẹʹrr"
 
-#: Scenes/GameScene.tscn:334 Scenes/GameScene.tscn:736
-#: Scenes/GameScene.tscn:880 Scenes/GameScene.tscn:1069
-#: android/build/assets/Scenes/GameScene.tscn:342
-#: android/build/assets/Scenes/GameScene.tscn:749
-#: android/build/assets/Scenes/GameScene.tscn:976
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:342
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:749
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:976
+#: Scenes/GameScene.tscn:334 Scenes/GameScene.tscn:732
+#: Scenes/GameScene.tscn:876 Scenes/GameScene.tscn:1066
 msgid "Back"
 msgstr "Mååust"
 
 #: Scenes/GameScene.tscn:357 Scenes/SplashScreen.tscn:149
-#: android/build/assets/Scenes/GameScene.tscn:365
-#: android/build/assets/Scenes/SplashScreen.tscn:149
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:365
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/SplashScreen.tscn:149
 msgid "Delete"
 msgstr "Jaukkâd"
 
-#: Scenes/GameScene.tscn:380 android/build/assets/Scenes/GameScene.tscn:388
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:388
+#: Scenes/GameScene.tscn:380
 msgid "Language"
 msgstr "Ǩiõll"
 
-#: Scenes/GameScene.tscn:482 android/build/assets/Scenes/GameScene.tscn:490
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:490
+#: Scenes/GameScene.tscn:479
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -130,112 +96,83 @@ msgstr ""
 "\n"
 "(Speâll poott)"
 
-#: Scenes/GameScene.tscn:514 android/build/assets/Scenes/GameScene.tscn:522
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:522
+#: Scenes/GameScene.tscn:511
 msgid "Yes"
 msgstr "Naa"
 
-#: Scenes/GameScene.tscn:541 android/build/assets/Scenes/GameScene.tscn:549
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:549
+#: Scenes/GameScene.tscn:538
 msgid "No"
 msgstr "Jiõm leäkku"
 
-#: Scenes/GameScene.tscn:573 android/build/assets/Scenes/GameScene.tscn:586
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:586
-msgid "QuickPlay"
+#: Scenes/GameScene.tscn:570 Scenes/Stats.gd:21
+msgid "Quickplay"
 msgstr "Ǩeärǥspeâll"
 
-#: Scenes/GameScene.tscn:597 Scenes/Stats.gd:27
-#: android/build/assets/Scenes/GameScene.tscn:610
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:610
+#: Scenes/GameScene.tscn:594 Scenes/Stats.gd:27
 msgid "Infinite"
 msgstr "Ǩeeʹjjteʹmes speâll"
 
-#: Scenes/GameScene.tscn:625 android/build/assets/Scenes/GameScene.tscn:638
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:638
+#: Scenes/GameScene.tscn:621
 msgid "Difficulty Menu"
 msgstr "Väʹǯǯelvuõđ tääʹzz"
 
-#: Scenes/GameScene.tscn:647 Scenes/Stats.gd:40
-#: android/build/assets/Scenes/GameScene.tscn:660
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:660
+#: Scenes/GameScene.tscn:643 Scenes/Stats.gd:40
 msgid "Normal"
 msgstr "Takai tääʹss"
 
-#: Scenes/GameScene.tscn:670 Scenes/Stats.gd:42
-#: android/build/assets/Scenes/GameScene.tscn:683
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:683
+#: Scenes/GameScene.tscn:666 Scenes/Stats.gd:42
 msgid "Hard"
 msgstr "Väʹǯǯlõs tääʹss"
 
-#: Scenes/GameScene.tscn:692 Scenes/Stats.gd:44
-#: android/build/assets/Scenes/GameScene.tscn:705
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:705
+#: Scenes/GameScene.tscn:688 Scenes/Stats.gd:44
 msgid "Expert"
 msgstr ""
 
-#: Scenes/GameScene.tscn:714 Scenes/Stats.gd:46
-#: android/build/assets/Scenes/GameScene.tscn:727
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:727
-msgid "Lunatic"
+#: Scenes/GameScene.tscn:710 Scenes/Stats.gd:46
+msgid "Ludicrous"
 msgstr ""
 
-#: Scenes/GameScene.tscn:763 android/build/assets/Scenes/GameScene.tscn:776
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:776
+#: Scenes/GameScene.tscn:759
 msgid "Tutorial"
 msgstr "Mattu speâllad"
 
-#: Scenes/GameScene.tscn:776 android/build/assets/Scenes/GameScene.tscn:789
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:789
+#: Scenes/GameScene.tscn:772
 msgid "GameMode"
 msgstr "Jeeʹres speâllvueʹjj"
 
-#: Scenes/GameScene.tscn:911 android/build/assets/Scenes/GameScene.tscn:819
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/GameScene.tscn:819
+#: Scenes/GameScene.tscn:907
 msgid "Credits"
 msgstr "Raajji"
 
-#: Scenes/LanguageMenu.tscn:52 android/build/assets/Scenes/LanguageMenu.tscn:51
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:51
+#: Scenes/LanguageMenu.tscn:52
 msgid "English"
 msgstr ""
 
-#: Scenes/LanguageMenu.tscn:75 android/build/assets/Scenes/LanguageMenu.tscn:74
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:74
+#: Scenes/LanguageMenu.tscn:75
 msgid "Suomi"
 msgstr ""
 
-#: Scenes/LanguageMenu.tscn:98 android/build/assets/Scenes/LanguageMenu.tscn:97
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:97
+#: Scenes/LanguageMenu.tscn:98
 msgid "Эрзякс"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:122
-#: android/build/assets/Scenes/LanguageMenu.tscn:121
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:121
 msgid "Sääʹmǩiõll"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:143
-#: android/build/assets/Scenes/LanguageMenu.tscn:142
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:142
 msgid "Коми"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:153
-#: android/build/assets/Scenes/LanguageMenu.tscn:152
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/LanguageMenu.tscn:152
 msgid "Language Menu"
 msgstr "Ǩiõllvaʹlljõk"
 
-#: Scenes/SplashScreen.tscn:99 android/build/assets/Scenes/SplashScreen.tscn:99
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/SplashScreen.tscn:99
+#: Scenes/SplashScreen.tscn:99
 msgid "THE GAME IS STILL IN DEVELOPMENT"
 msgstr "SPEÂLL LIJ VÕL TUEʹJ VUEʹLNN"
 
 #: Scenes/SplashScreen.tscn:124
-#: android/build/assets/Scenes/SplashScreen.tscn:124
-#: android/build/build/intermediates/merged_assets/debug/out/Scenes/SplashScreen.tscn:124
 msgid ""
 "Corrupted Data found\n"
 "\n"
@@ -256,10 +193,6 @@ msgstr ""
 #: Scenes/Stats.gd:7
 msgid "Scoreboard"
 msgstr ""
-
-#: Scenes/Stats.gd:21
-msgid "Quickplay"
-msgstr "Ǩeärǥspeâll"
 
 #: Scenes/Stats.gd:24
 msgid "Timed"
@@ -294,6 +227,9 @@ msgstr "TUU CEÄKLDÕSMIẸʹRR"
 #: Scripts/GameMechanics/score_ui.gd:30
 msgid "PERFECT"
 msgstr "TIUDDSAŽ"
+
+#~ msgid "QuickPlay"
+#~ msgstr "Ǩeärǥspeâll"
 
 #~ msgid "Finnish"
 #~ msgstr "Lääʹddǩiõll"
