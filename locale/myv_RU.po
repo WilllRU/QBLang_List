@@ -124,7 +124,7 @@ msgstr "Стака"
 
 #: Scenes/GameScene.tscn:688 Scenes/Stats.gd:44
 msgid "Expert"
-msgstr ""
+msgstr "Тевень содыцянь"
 
 #: Scenes/GameScene.tscn:710 Scenes/Stats.gd:46
 msgid "Ludicrous"
@@ -190,7 +190,7 @@ msgstr ""
 
 #: Scenes/Stats.gd:7
 msgid "Scoreboard"
-msgstr ""
+msgstr "Балонь невтема"
 
 #: Scenes/Stats.gd:24
 msgid "Timed"
