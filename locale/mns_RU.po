@@ -1,0 +1,232 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-07-07 13:12+0300\n"
+"PO-Revision-Date: 2022-12-01 19:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mns_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: set_slider.gd:34
+msgid "Music"
+msgstr "Э̄рыгсов"
+
+#: set_slider.gd:40
+msgid "SFX"
+msgstr ""
+
+#: set_slider.gd:46
+msgid "Palette"
+msgstr "Палетта"
+
+#: Scenes/Game.tscn:406
+msgid "0      00"
+msgstr ""
+
+#: Scenes/Game.tscn:534 Scenes/Game.tscn:617
+msgid "Restart"
+msgstr "Йильпииг о̄вылматэн"
+
+#: Scenes/Game.tscn:561 Scenes/Game.tscn:646
+msgid "Menu"
+msgstr "Меню"
+
+#: Scenes/Game.tscn:675
+msgid "Unpause"
+msgstr "Э̄лаль тотэн"
+
+#: Scenes/GameScene.tscn:195
+msgid "Play"
+msgstr "Ёнгэн"
+
+#: Scenes/GameScene.tscn:215
+msgid "Quit"
+msgstr "Кон-ква̄лэн"
+
+#: Scenes/GameScene.tscn:238 Scenes/GameScene.tscn:1079
+msgid "Info"
+msgstr "Инфот"
+
+#: Scenes/GameScene.tscn:261 Scenes/GameScene.tscn:310
+msgid "Options"
+msgstr "Параметрыт"
+
+#: Scenes/GameScene.tscn:287 Scenes/GameScene.tscn:789
+msgid "Stats"
+msgstr "Статистика"
+
+#: Scenes/GameScene.tscn:334 Scenes/GameScene.tscn:732
+#: Scenes/GameScene.tscn:876 Scenes/GameScene.tscn:1066
+msgid "Back"
+msgstr "Ювле минэн"
+
+#: Scenes/GameScene.tscn:357 Scenes/SplashScreen.tscn:149
+msgid "Delete"
+msgstr "Ще̄лтумтэн"
+
+#: Scenes/GameScene.tscn:380
+msgid "Language"
+msgstr "Ла̄тӈыт"
+
+#: Scenes/GameScene.tscn:479
+msgid ""
+"Are you sure you want\n"
+" to delete your save file?\n"
+"\n"
+"This might fix some update problems but will remove all your data!\n"
+"\n"
+"(The game will quit)"
+msgstr ""
+"Наӈ ӯргалым файлын ще̄лтумтаӈкве таӈхе̄гын-а?\n"
+"\n"
+"Ты наӈын нё̄ты, а ты пуссын наӈ инфонын ос статистиканын ще̄лтумтыянэ!\n"
+"\n"
+"(Ёнгут квон-ква̄лы)"
+
+#: Scenes/GameScene.tscn:511
+msgid "Yes"
+msgstr "А-а"
+
+#: Scenes/GameScene.tscn:538
+msgid "No"
+msgstr "А̄ти"
+
+#: Scenes/GameScene.tscn:570 Scenes/Stats.gd:21
+msgid "Quickplay"
+msgstr ""
+
+#: Scenes/GameScene.tscn:594 Scenes/Stats.gd:27
+msgid "Infinite"
+msgstr "О̄вылта̄л"
+
+#: Scenes/GameScene.tscn:621
+msgid "Difficulty Menu"
+msgstr "Та̄рвыт янытэ"
+
+#: Scenes/GameScene.tscn:643 Scenes/Stats.gd:40
+msgid "Normal"
+msgstr "Та̄рвытыӈ а̄ти"
+
+#: Scenes/GameScene.tscn:666 Scenes/Stats.gd:42
+msgid "Hard"
+msgstr "Та̄рвытыӈ"
+
+#: Scenes/GameScene.tscn:688 Scenes/Stats.gd:44
+msgid "Expert"
+msgstr "Ма̄щтыр хо̄тпа щирыл"
+
+#: Scenes/GameScene.tscn:710 Scenes/Stats.gd:46
+msgid "Ludicrous"
+msgstr "Ощхолиӈ"
+
+#: Scenes/GameScene.tscn:759
+msgid "Tutorial"
+msgstr "Ханищтап"
+
+#: Scenes/GameScene.tscn:772
+msgid "GameMode"
+msgstr ""
+
+#: Scenes/GameScene.tscn:907
+msgid "Credits"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:52
+msgid "English"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:75
+msgid "Suomi"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:98
+msgid "Эрзякс"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:122
+msgid "Sääʹmǩiõll"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:143
+msgid "Коми"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:
+msgid "Ма̄ньщи ла̄тыӈ"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:153
+msgid "Language Menu"
+msgstr "Ла̄тыӈ пе̄риянэ меню"
+
+#: Scenes/SplashScreen.tscn:99
+msgid "THE GAME IS STILL IN DEVELOPMENT"
+msgstr "Ёнгут оигпанэ̄г ва̄рим ат ин о̄лы"
+
+#: Scenes/SplashScreen.tscn:124
+msgid ""
+"Corrupted Data found\n"
+"\n"
+"(The data you have can't be read and can't be salvaged)\n"
+"\n"
+"Your data has to be deleted to play\n"
+"\n"
+"Delete data?"
+msgstr ""
+"Лю̄ль ут хо̄нтавес\n"
+"\n"
+"(Ты ут ловиньтаӈкве ат э̄ри.)\n"
+"\n"
+"Ёнгуӈкве ма̄гыс ты ут ще̄лтумтаӈкве таӈхе̄гын-а?\n"
+"\n"
+"Ты ут ще̄лтумтаӈкве ро̄ви."
+
+#: Scenes/Stats.gd:7
+msgid "Scoreboard"
+msgstr ""
+
+#: Scenes/Stats.gd:24
+msgid "Timed"
+msgstr ""
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+msgid "GAME PAUSED"
+msgstr "Ӯщлахтап"
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:86
+msgid "HIGH SCORE"
+msgstr "Щар яныг щисла"
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:88
+msgid "HIGHEST COMBO"
+msgstr ""
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:84
+msgid "NEW HIGH SCORE!"
+msgstr "Йильпи щар яныг щисла!"
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:84
+msgid "PREVIOUS HIGH SCORE"
+msgstr "Сартыннув вим щар яныг щисла"
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:86
+msgid "YOUR SCORE"
+msgstr "Ёнгым щислан"
+
+#: Scripts/GameMechanics/score_ui.gd:30
+msgid "PERFECT"
+msgstr "Сака ёмас!"
