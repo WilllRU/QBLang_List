@@ -106,7 +106,7 @@ msgstr "Ог"
 
 #: Scenes/GameScene.tscn:570 Scenes/Stats.gd:21
 msgid "Quickplay"
-msgstr "ВорсавНин"
+msgstr "Ворсав нин"
 
 #: Scenes/GameScene.tscn:594 Scenes/Stats.gd:27
 msgid "Infinite"
