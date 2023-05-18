@@ -105,7 +105,7 @@ msgstr "А̄ти"
 
 #: Scenes/GameScene.tscn:570 Scenes/Stats.gd:21
 msgid "Quickplay"
-msgstr ""
+msgstr "Та̄ра ёнгылн минэн"
 
 #: Scenes/GameScene.tscn:594 Scenes/Stats.gd:27
 msgid "Infinite"
@@ -137,11 +137,11 @@ msgstr "Ханищтап"
 
 #: Scenes/GameScene.tscn:772
 msgid "GameMode"
-msgstr ""
+msgstr "Хоса ман ва̄ти ёнгуӈкве таӈхе̄гын?"
 
 #: Scenes/GameScene.tscn:907
 msgid "Credits"
-msgstr ""
+msgstr "Ты хо̄тпатн пӯмащипа ла̄тыӈ ла̄ве̄в"
 
 #: Scenes/LanguageMenu.tscn:52
 msgid "English"
@@ -195,11 +195,11 @@ msgstr ""
 
 #: Scenes/Stats.gd:7
 msgid "Scoreboard"
-msgstr ""
+msgstr "Наӈ вим балланын"
 
 #: Scenes/Stats.gd:24
 msgid "Timed"
-msgstr ""
+msgstr "Ва̄ти ёнгил"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
@@ -213,7 +213,7 @@ msgstr "Щар яныг щисла"
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:88
 msgid "HIGHEST COMBO"
-msgstr ""
+msgstr "Щар яныг щисланын аквъёт ловиньтым"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:84
 msgid "NEW HIGH SCORE!"
@@ -225,7 +225,7 @@ msgstr "Сартыннув вим щар яныг щисла"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:86
 msgid "YOUR SCORE"
-msgstr "Ёнгым щислан"
+msgstr "Ёнгилт вим щислан"
 
 #: Scripts/GameMechanics/score_ui.gd:30
 msgid "PERFECT"
