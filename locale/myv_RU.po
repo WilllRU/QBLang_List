@@ -104,7 +104,7 @@ msgstr "Арась"
 
 #: Scenes/GameScene.tscn:570 Scenes/Stats.gd:21
 msgid "Quickplay"
-msgstr "НейкеНалксеме"
+msgstr "Нейке налксеме"
 
 #: Scenes/GameScene.tscn:594 Scenes/Stats.gd:27
 msgid "Infinite"
@@ -128,7 +128,7 @@ msgstr "Тевень содыцянь"
 
 #: Scenes/GameScene.tscn:710 Scenes/Stats.gd:46
 msgid "Ludicrous"
-msgstr ""
+msgstr "превстэ ливтиця"
 
 #: Scenes/GameScene.tscn:759
 msgid "Tutorial"
@@ -194,7 +194,7 @@ msgstr "Балонь невтема"
 
 #: Scenes/Stats.gd:24
 msgid "Timed"
-msgstr ""
+msgstr "Путозь шкас"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
 msgid "GAME PAUSED"
