@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-07-07 13:12+0300\n"
-"PO-Revision-Date: 2022-07-07 13:14+0300\n"
+"POT-Creation-Date: 2023-06-10 14:05+0300\n"
+"PO-Revision-Date: 2023-06-10 14:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: myv_RU\n"
@@ -16,70 +16,70 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.3.1\n"
 
-#: set_slider.gd:34
+#: Scripts/Menu/set_slider.gd:34 set_slider.gd:34
 msgid "Music"
 msgstr "Музыказо"
 
-#: set_slider.gd:40
+#: Scripts/Menu/set_slider.gd:40 set_slider.gd:40
 msgid "SFX"
 msgstr "Гайтензэ"
 
-#: set_slider.gd:46
+#: Scripts/Menu/set_slider.gd:46 set_slider.gd:46
 msgid "Palette"
 msgstr "Тюспотмозо"
 
-#: Scenes/Game.tscn:406
+#: Scenes/Game.tscn:620
 msgid "0      00"
 msgstr ""
 
-#: Scenes/Game.tscn:534 Scenes/Game.tscn:617
+#: Scenes/Game.tscn:759 Scenes/Game.tscn:846
 msgid "Restart"
 msgstr "Нолдамс одов"
 
-#: Scenes/Game.tscn:561 Scenes/Game.tscn:646
+#: Scenes/Game.tscn:786 Scenes/Game.tscn:875
 msgid "Menu"
 msgstr "Мезде кочкамс"
 
-#: Scenes/Game.tscn:675
+#: Scenes/Game.tscn:901
 msgid "Unpause"
 msgstr "Нолдамс седе тов"
 
-#: Scenes/GameScene.tscn:195
+#: Scenes/GameScene.tscn:169
 msgid "Play"
 msgstr "Налксемс"
 
-#: Scenes/GameScene.tscn:215
+#: Scenes/GameScene.tscn:195
 msgid "Quit"
 msgstr "Лоткавтомс"
 
-#: Scenes/GameScene.tscn:238 Scenes/GameScene.tscn:1079
+#: Scenes/GameScene.tscn:221 Scenes/GameScene.tscn:1126
 msgid "Info"
 msgstr "Содамга"
 
-#: Scenes/GameScene.tscn:261 Scenes/GameScene.tscn:310
+#: Scenes/GameScene.tscn:247 Scenes/GameScene.tscn:300
 msgid "Options"
 msgstr "Аравтомкат"
 
-#: Scenes/GameScene.tscn:287 Scenes/GameScene.tscn:789
+#: Scenes/GameScene.tscn:276 Scenes/GameScene.tscn:811
 msgid "Stats"
 msgstr "Статистикат"
 
-#: Scenes/GameScene.tscn:334 Scenes/GameScene.tscn:732
-#: Scenes/GameScene.tscn:876 Scenes/GameScene.tscn:1066
+#: Scenes/GameScene.tscn:324 Scenes/GameScene.tscn:630
+#: Scenes/GameScene.tscn:902 Scenes/GameScene.tscn:1112
 msgid "Back"
 msgstr "Мекев"
 
-#: Scenes/GameScene.tscn:357 Scenes/SplashScreen.tscn:149
+#: Scenes/GameScene.tscn:350 Scenes/SplashScreen.tscn:251
 msgid "Delete"
 msgstr "Нардамс"
 
-#: Scenes/GameScene.tscn:380
+#: Scenes/GameScene.tscn:376
 msgid "Language"
 msgstr "Кель"
 
-#: Scenes/GameScene.tscn:479
+#: Scenes/GameScene.tscn:486
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -94,51 +94,51 @@ msgstr ""
 "\n"
 "(Налкшкесь пекстави)"
 
-#: Scenes/GameScene.tscn:511
+#: Scenes/GameScene.tscn:518
 msgid "Yes"
 msgstr "Ули"
 
-#: Scenes/GameScene.tscn:538
+#: Scenes/GameScene.tscn:543
 msgid "No"
 msgstr "Арась"
 
-#: Scenes/GameScene.tscn:570 Scenes/Stats.gd:21
+#: Scenes/GameScene.tscn:578 Scenes/Stats.gd:21
 msgid "Quickplay"
 msgstr "Нейке налксеме"
 
-#: Scenes/GameScene.tscn:594 Scenes/Stats.gd:27
+#: Scenes/GameScene.tscn:604 Scenes/Stats.gd:24
 msgid "Infinite"
 msgstr "Певтеме"
 
-#: Scenes/GameScene.tscn:621
-msgid "Difficulty Menu"
-msgstr "Стакаксчинзэ"
-
-#: Scenes/GameScene.tscn:643 Scenes/Stats.gd:40
-msgid "Normal"
-msgstr "Эрьва чинь"
-
-#: Scenes/GameScene.tscn:666 Scenes/Stats.gd:42
-msgid "Hard"
-msgstr "Стака"
-
-#: Scenes/GameScene.tscn:688 Scenes/Stats.gd:44
-msgid "Expert"
-msgstr "Тевень содыцянь"
-
-#: Scenes/GameScene.tscn:710 Scenes/Stats.gd:46
-msgid "Ludicrous"
-msgstr "превстэ ливтиця"
-
-#: Scenes/GameScene.tscn:759
+#: Scenes/GameScene.tscn:657
 msgid "Tutorial"
 msgstr "Тонавтнемка"
 
-#: Scenes/GameScene.tscn:772
+#: Scenes/GameScene.tscn:671
 msgid "GameMode"
 msgstr "Налксемалув"
 
-#: Scenes/GameScene.tscn:907
+#: Scenes/GameScene.tscn:698
+msgid "Difficulty Menu"
+msgstr "Стакаксчинзэ"
+
+#: Scenes/GameScene.tscn:722 Scenes/Stats.gd:40
+msgid "Normal"
+msgstr "Эрьва чинь"
+
+#: Scenes/GameScene.tscn:747 Scenes/Stats.gd:42
+msgid "Hard"
+msgstr "Стака"
+
+#: Scenes/GameScene.tscn:770 Scenes/Stats.gd:44
+msgid "Expert"
+msgstr "Тевень содыцянь"
+
+#: Scenes/GameScene.tscn:794 Scenes/Stats.gd:46
+msgid "Ludicrous"
+msgstr "превстэ ливтиця"
+
+#: Scenes/GameScene.tscn:936
 msgid "Credits"
 msgstr "Кинь шнамс"
 
@@ -146,31 +146,35 @@ msgstr "Кинь шнамс"
 msgid "English"
 msgstr ""
 
-#: Scenes/LanguageMenu.tscn:75
+#: Scenes/LanguageMenu.tscn:72
 msgid "Suomi"
 msgstr ""
 
-#: Scenes/LanguageMenu.tscn:98
+#: Scenes/LanguageMenu.tscn:95
 msgid "Эрзякс"
 msgstr ""
 
-#: Scenes/LanguageMenu.tscn:122
+#: Scenes/LanguageMenu.tscn:118
 msgid "Sääʹmǩiõll"
 msgstr ""
 
-#: Scenes/LanguageMenu.tscn:143
+#: Scenes/LanguageMenu.tscn:138
 msgid "Коми"
 msgstr ""
 
-#: Scenes/LanguageMenu.tscn:153
+#: Scenes/LanguageMenu.tscn:158
+msgid "ма̄ньси"
+msgstr ""
+
+#: Scenes/LanguageMenu.tscn:168
 msgid "Language Menu"
 msgstr "Келень кочкамо"
 
-#: Scenes/SplashScreen.tscn:99
+#: Scenes/SplashScreen.tscn:201
 msgid "THE GAME IS STILL IN DEVELOPMENT"
 msgstr "НЕЙГАК ВАДРЯЛГАВТТАНО НАЛКШКЕНТЬ"
 
-#: Scenes/SplashScreen.tscn:124
+#: Scenes/SplashScreen.tscn:226
 msgid ""
 "Corrupted Data found\n"
 "\n"
@@ -192,37 +196,73 @@ msgstr ""
 msgid "Scoreboard"
 msgstr "Балонь невтема"
 
-#: Scenes/Stats.gd:24
+#: Scenes/Stats.gd:27
 msgid "Timed"
 msgstr "Путозь шкас"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
+#: Scripts/persistent_data.gd:18
+msgid "Unfortunate"
+msgstr ""
+
+#: Scripts/persistent_data.gd:19
+msgid "OK"
+msgstr ""
+
+#: Scripts/persistent_data.gd:20
+msgid "Good"
+msgstr ""
+
+#: Scripts/persistent_data.gd:21
+msgid "Great"
+msgstr ""
+
+#: Scripts/persistent_data.gd:22
+msgid "Amazing"
+msgstr ""
+
+#: Scripts/persistent_data.gd:23
+msgid "Double"
+msgstr ""
+
+#: Scripts/persistent_data.gd:24
+msgid "Perfect"
+msgstr ""
+
+#: Scripts/persistent_data.gd:25
+msgid "Deadlock"
+msgstr ""
+
+#: Scripts/persistent_data.gd:26
+msgid "All Clear"
+msgstr ""
+
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
 msgid "GAME PAUSED"
 msgstr "НАЛКШКЕСЬ ЛОТКАВТОЗЬ"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:86
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:127
 msgid "HIGH SCORE"
 msgstr "ВЕСЕМЕДЕ ЛАМО БАЛТ"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:26
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:88
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:129
 msgid "HIGHEST COMBO"
 msgstr "ПУРНАВКСОНЬ ТЁКШ"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:84
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:125
 msgid "NEW HIGH SCORE!"
 msgstr "БАЛОНЬ ОД ТЁКШ!"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:84
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:125
 msgid "PREVIOUS HIGH SCORE"
 msgstr "СЕДЕ ИКЕЛЕНЬ ТЁКШ"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:86
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:127
 msgid "YOUR SCORE"
 msgstr "ЭСЕТЬ БАЛОТ"
 
-#: Scripts/GameMechanics/score_ui.gd:30
+#: Scripts/GameMechanics/score_ui.gd:85
 msgid "PERFECT"
 msgstr "ЭЙПАРО"
 
