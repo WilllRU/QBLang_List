@@ -157,7 +157,7 @@ msgid "Коми"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:158
-msgid "ма̄ньси"
+msgid "Ма̄ньси"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:168
