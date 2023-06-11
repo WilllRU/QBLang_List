@@ -134,7 +134,7 @@ msgstr "Сьӧкыд"
 
 #: Scenes/GameScene.tscn:770 Scenes/Stats.gd:44
 msgid "Expert"
-msgstr ""
+msgstr "Удж тӧдысь"
 
 #: Scenes/GameScene.tscn:794 Scenes/Stats.gd:46
 msgid "Ludicrous"
@@ -165,7 +165,7 @@ msgid "Коми"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:158
-msgid "ма̄ньси"
+msgid "Ма̄ньщи"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:168
