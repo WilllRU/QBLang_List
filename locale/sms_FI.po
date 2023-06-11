@@ -25,7 +25,7 @@ msgstr "Musikk"
 
 #: Scripts/Menu/set_slider.gd:40 set_slider.gd:40
 msgid "SFX"
-msgstr ""
+msgstr "Jiôn"
 
 #: Scripts/Menu/set_slider.gd:46 set_slider.gd:46
 msgid "Palette"
@@ -134,7 +134,7 @@ msgstr "Väʹǯǯlõs tääʹss"
 
 #: Scenes/GameScene.tscn:770 Scenes/Stats.gd:44
 msgid "Expert"
-msgstr ""
+msgstr "Äʹšštobddi"
 
 #: Scenes/GameScene.tscn:794 Scenes/Stats.gd:46
 msgid "Ludicrous"
@@ -165,7 +165,7 @@ msgid "Коми"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:158
-msgid "ма̄ньси"
+msgid "Ма̄ньщи"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:168
@@ -196,11 +196,11 @@ msgstr ""
 
 #: Scenes/Stats.gd:7
 msgid "Scoreboard"
-msgstr ""
+msgstr "Ceäkldõstaull"
 
 #: Scenes/Stats.gd:27
 msgid "Timed"
-msgstr ""
+msgstr "Äiʹǧǧuum"
 
 #: Scripts/persistent_data.gd:18
 msgid "Unfortunate"
@@ -212,7 +212,7 @@ msgstr ""
 
 #: Scripts/persistent_data.gd:20
 msgid "Good"
-msgstr ""
+msgstr "Šiõǥǥ"
 
 #: Scripts/persistent_data.gd:21
 msgid "Great"
@@ -224,7 +224,7 @@ msgstr ""
 
 #: Scripts/persistent_data.gd:23
 msgid "Double"
-msgstr ""
+msgstr "Kuõiʹtǩeärdaž"
 
 #: Scripts/persistent_data.gd:24
 msgid "Perfect"
