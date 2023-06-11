@@ -163,7 +163,7 @@ msgid "Коми"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:158
-msgid "ма̄ньси"
+msgid "Ма̄ньщи"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:168
@@ -202,31 +202,31 @@ msgstr "Путозь шкас"
 
 #: Scripts/persistent_data.gd:18
 msgid "Unfortunate"
-msgstr ""
+msgstr "Седеймарямот"
 
 #: Scripts/persistent_data.gd:19
 msgid "OK"
-msgstr ""
+msgstr "Мо-оли"
 
 #: Scripts/persistent_data.gd:20
 msgid "Good"
-msgstr ""
+msgstr "Паро"
 
 #: Scripts/persistent_data.gd:21
 msgid "Great"
-msgstr ""
+msgstr "Пек вадря"
 
 #: Scripts/persistent_data.gd:22
 msgid "Amazing"
-msgstr ""
+msgstr "Сядо равты"
 
 #: Scripts/persistent_data.gd:23
 msgid "Double"
-msgstr ""
+msgstr "Кавтосядт равты"
 
 #: Scripts/persistent_data.gd:24
 msgid "Perfect"
-msgstr ""
+msgstr "Весе изнявсть"
 
 #: Scripts/persistent_data.gd:25
 msgid "Deadlock"
