@@ -230,11 +230,11 @@ msgstr "Весе изнявсть"
 
 #: Scripts/persistent_data.gd:25
 msgid "Deadlock"
-msgstr ""
+msgstr "Кешкезентькак изник"
 
 #: Scripts/persistent_data.gd:26
 msgid "All Clear"
-msgstr ""
+msgstr "Чамдовсь"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
 msgid "GAME PAUSED"
