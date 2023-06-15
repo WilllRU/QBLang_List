@@ -233,11 +233,11 @@ msgstr "Moitteetonta"
 
 #: Scripts/persistent_data.gd:25
 msgid "Deadlock"
-msgstr ""
+msgstr "Tosi ovela"
 
 #: Scripts/persistent_data.gd:26
 msgid "All Clear"
-msgstr ""
+msgstr "Kaikki sileäksi"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
 msgid "GAME PAUSED"
