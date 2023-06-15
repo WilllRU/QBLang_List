@@ -141,7 +141,7 @@ msgstr "Ощхолиӈ"
 
 #: Scenes/GameScene.tscn:936
 msgid "Credits"
-msgstr "Ты хо̄тпатн пӯмащипа ла̄тыӈ ла̄ве̄в"
+msgstr "Пӯмащипа!"
 
 #: Scenes/LanguageMenu.tscn:52
 msgid "English"
@@ -164,7 +164,7 @@ msgid "Коми"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:158
-msgid "ма̄ньси"
+msgid "Ма̄ньси"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:168
@@ -203,39 +203,39 @@ msgstr "Ва̄ти ёнгил"
 
 #: Scripts/persistent_data.gd:18
 msgid "Unfortunate"
-msgstr ""
+msgstr "Лю̄лсаӈ"
 
 #: Scripts/persistent_data.gd:19
 msgid "OK"
-msgstr ""
+msgstr "Ёмас"
 
 #: Scripts/persistent_data.gd:20
 msgid "Good"
-msgstr ""
+msgstr "Сака ёмас"
 
 #: Scripts/persistent_data.gd:21
 msgid "Great"
-msgstr ""
+msgstr "Нак-сыпта̄л"
 
 #: Scripts/persistent_data.gd:22
 msgid "Amazing"
-msgstr ""
+msgstr "Э̄л-нэ̄глым"
 
 #: Scripts/persistent_data.gd:23
 msgid "Double"
-msgstr ""
+msgstr "Э̄лы-о̄вылт миным"
 
 #: Scripts/persistent_data.gd:24
 msgid "Perfect"
-msgstr ""
+msgstr "Ищхы̄пыӈ"
 
 #: Scripts/persistent_data.gd:25
 msgid "Deadlock"
-msgstr ""
+msgstr "Ма̄щтыр щирыл"
 
 #: Scripts/persistent_data.gd:26
 msgid "All Clear"
-msgstr ""
+msgstr "О̄тыр щирыл"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
 msgid "GAME PAUSED"
