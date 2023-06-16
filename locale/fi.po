@@ -139,7 +139,7 @@ msgstr "Asiantuntja"
 
 #: Scenes/GameScene.tscn:794 Scenes/Stats.gd:46
 msgid "Ludicrous"
-msgstr ""
+msgstr "Synnynäinen"
 
 #: Scenes/GameScene.tscn:936
 msgid "Credits"
