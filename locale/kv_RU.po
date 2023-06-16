@@ -48,7 +48,7 @@ msgstr "Водзлань"
 
 #: Scenes/GameScene.tscn:169
 msgid "Play"
-msgstr "Ворсыштны"
+msgstr "Ворсны"
 
 #: Scenes/GameScene.tscn:195
 msgid "Quit"
@@ -91,8 +91,8 @@ msgstr ""
 "Тэ збыль кӧсъян\n"
 " бырӧдны тайӧ файл?\n"
 "\n"
-"Та бӧрын ворсӧмторйыд гашкӧ бурджыкӧн кутас уджавны, сӧмын ас датаястӧ колӧ "
-"бырӧднысӧ!\n"
+"Та бӧрын ворсӧмыд гашкӧ бурджыка кутас уджавны, сӧмын ас датаястӧ колӧ "
+"бырӧдны!\n"
 "\n"
 "(Ворсӧмторйыд дугдас)"
 
@@ -106,7 +106,7 @@ msgstr "Ог"
 
 #: Scenes/GameScene.tscn:578 Scenes/Stats.gd:21
 msgid "Quickplay"
-msgstr "Ворсав нин"
+msgstr "Ворс нин"
 
 #: Scenes/GameScene.tscn:604 Scenes/Stats.gd:24
 msgid "Infinite"
@@ -138,11 +138,11 @@ msgstr "Удж тӧдысь"
 
 #: Scenes/GameScene.tscn:794 Scenes/Stats.gd:46
 msgid "Ludicrous"
-msgstr ""
+msgstr "Туйтӧм"
 
 #: Scenes/GameScene.tscn:936
 msgid "Credits"
-msgstr "Аттьӧалам"
+msgstr "Аттьӧалӧм"
 
 #: Scenes/LanguageMenu.tscn:52
 msgid "English"
@@ -196,51 +196,51 @@ msgstr ""
 
 #: Scenes/Stats.gd:7
 msgid "Scoreboard"
-msgstr ""
+msgstr "Пӧв"
 
 #: Scenes/Stats.gd:27
 msgid "Timed"
-msgstr ""
+msgstr "Кад серти"
 
 #: Scripts/persistent_data.gd:18
 msgid "Unfortunate"
-msgstr ""
+msgstr "Шудтӧм"
 
 #: Scripts/persistent_data.gd:19
 msgid "OK"
-msgstr ""
+msgstr "ДА"
 
 #: Scripts/persistent_data.gd:20
 msgid "Good"
-msgstr ""
+msgstr "Бур"
 
 #: Scripts/persistent_data.gd:21
 msgid "Great"
-msgstr ""
+msgstr "Ыджыд"
 
 #: Scripts/persistent_data.gd:22
 msgid "Amazing"
-msgstr ""
+msgstr "Шензьӧдана"
 
 #: Scripts/persistent_data.gd:23
 msgid "Double"
-msgstr ""
+msgstr "Кыка"
 
 #: Scripts/persistent_data.gd:24
 msgid "Perfect"
-msgstr ""
+msgstr "Майбыр"
 
 #: Scripts/persistent_data.gd:25
 msgid "Deadlock"
-msgstr ""
+msgstr "Пикӧ воӧм"
 
 #: Scripts/persistent_data.gd:26
 msgid "All Clear"
-msgstr ""
+msgstr "Ставсӧ чышкӧм"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
 msgid "GAME PAUSED"
-msgstr "ВОРСӦМТОР СУВТӦДАНА"
+msgstr "ВОРСӦМ СУВТӦДӦМА"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:127
@@ -269,13 +269,13 @@ msgid "PERFECT"
 msgstr "МАЙБЫР"
 
 #~ msgid "QuickPlay"
-#~ msgstr "ВорсавНин"
+#~ msgstr "ВорсНин"
 
 #~ msgid "Finnish"
 #~ msgstr "Фин кыв"
 
 #~ msgid "Skolt Sami"
-#~ msgstr "Кольт саам кыв"
+#~ msgstr "СКолт саам кыв"
 
 #~ msgid "Erzya"
 #~ msgstr "Эрзя кыв"
