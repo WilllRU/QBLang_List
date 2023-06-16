@@ -48,7 +48,7 @@ msgstr "Водзлань"
 
 #: Scenes/GameScene.tscn:169
 msgid "Play"
-msgstr "Ворсавны"
+msgstr "Ворсыштны"
 
 #: Scenes/GameScene.tscn:195
 msgid "Quit"
