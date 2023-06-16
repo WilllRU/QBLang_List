@@ -40,7 +40,7 @@ msgstr "Нолдамс одов"
 
 #: Scenes/Game.tscn:786 Scenes/Game.tscn:875
 msgid "Menu"
-msgstr "Мезде кочкамс"
+msgstr "Кочкамка"
 
 #: Scenes/Game.tscn:901
 msgid "Unpause"
@@ -136,11 +136,11 @@ msgstr "Тевень содыцянь"
 
 #: Scenes/GameScene.tscn:794 Scenes/Stats.gd:46
 msgid "Ludicrous"
-msgstr "превстэ ливтиця"
+msgstr "превстэ ливтицянь"
 
 #: Scenes/GameScene.tscn:936
 msgid "Credits"
-msgstr "Кинь шнамс"
+msgstr "Теицятне"
 
 #: Scenes/LanguageMenu.tscn:52
 msgid "English"
