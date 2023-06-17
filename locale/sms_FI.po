@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-10 14:05+0300\n"
-"PO-Revision-Date: 2023-06-10 14:13+0300\n"
+"PO-Revision-Date: 2023-06-17 13:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: sms_FI\n"
@@ -202,39 +202,39 @@ msgstr "Ceäkldõstaull"
 msgid "Timed"
 msgstr "Äiʹǧǧuum"
 
-#: Scripts/persistent_data.gd:18
+#: Scripts/GameMechanics/score_ui.gd:7
 msgid "Unfortunate"
 msgstr "Räuʹǩǩ"
 
-#: Scripts/persistent_data.gd:19
+#: Scripts/GameMechanics/score_ui.gd:8
 msgid "OK"
 msgstr "OK"
 
-#: Scripts/persistent_data.gd:20
+#: Scripts/GameMechanics/score_ui.gd:9
 msgid "Good"
 msgstr "Šiõǥǥ"
 
-#: Scripts/persistent_data.gd:21
+#: Scripts/GameMechanics/score_ui.gd:10
 msgid "Great"
 msgstr "Pueʹrab"
 
-#: Scripts/persistent_data.gd:22
+#: Scripts/GameMechanics/score_ui.gd:11
 msgid "Amazing"
 msgstr "Fiinâs"
 
-#: Scripts/persistent_data.gd:23
+#: Scripts/GameMechanics/score_ui.gd:12
 msgid "Double"
 msgstr "Kuõiʹtǩeärdaž"
 
-#: Scripts/persistent_data.gd:24
+#: Scripts/GameMechanics/score_ui.gd:13
 msgid "Perfect"
 msgstr "Šoorkas"
 
-#: Scripts/persistent_data.gd:25
+#: Scripts/GameMechanics/score_ui.gd:14
 msgid "Deadlock"
 msgstr "Juõʹǩǩnalla"
 
-#: Scripts/persistent_data.gd:26
+#: Scripts/GameMechanics/score_ui.gd:15
 msgid "All Clear"
 msgstr "Čiistum"
 

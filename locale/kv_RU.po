@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-10 14:05+0300\n"
-"PO-Revision-Date: 2023-06-10 14:11+0300\n"
+"PO-Revision-Date: 2023-06-17 13:32+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: kv_RU\n"
@@ -202,39 +202,39 @@ msgstr "Пӧв"
 msgid "Timed"
 msgstr "Кад серти"
 
-#: Scripts/persistent_data.gd:18
+#: Scripts/GameMechanics/score_ui.gd:7
 msgid "Unfortunate"
 msgstr "Шудтӧм"
 
-#: Scripts/persistent_data.gd:19
+#: Scripts/GameMechanics/score_ui.gd:8
 msgid "OK"
 msgstr "ДА"
 
-#: Scripts/persistent_data.gd:20
+#: Scripts/GameMechanics/score_ui.gd:9
 msgid "Good"
 msgstr "Бур"
 
-#: Scripts/persistent_data.gd:21
+#: Scripts/GameMechanics/score_ui.gd:10
 msgid "Great"
 msgstr "Ыджыд"
 
-#: Scripts/persistent_data.gd:22
+#: Scripts/GameMechanics/score_ui.gd:11
 msgid "Amazing"
 msgstr "Шензьӧдана"
 
-#: Scripts/persistent_data.gd:23
+#: Scripts/GameMechanics/score_ui.gd:12
 msgid "Double"
 msgstr "Кыка"
 
-#: Scripts/persistent_data.gd:24
+#: Scripts/GameMechanics/score_ui.gd:13
 msgid "Perfect"
 msgstr "Майбыр"
 
-#: Scripts/persistent_data.gd:25
+#: Scripts/GameMechanics/score_ui.gd:14
 msgid "Deadlock"
 msgstr "Пикӧ воӧм"
 
-#: Scripts/persistent_data.gd:26
+#: Scripts/GameMechanics/score_ui.gd:15
 msgid "All Clear"
 msgstr "Ставсӧ чышкӧм"
 

@@ -187,39 +187,39 @@ msgstr ""
 msgid "Timed"
 msgstr ""
 
-#: Scripts/persistent_data.gd:18
+#: Scripts/GameMechanics/score_ui.gd:7
 msgid "Unfortunate"
 msgstr ""
 
-#: Scripts/persistent_data.gd:19
+#: Scripts/GameMechanics/score_ui.gd:8
 msgid "OK"
 msgstr ""
 
-#: Scripts/persistent_data.gd:20
+#: Scripts/GameMechanics/score_ui.gd:9
 msgid "Good"
 msgstr ""
 
-#: Scripts/persistent_data.gd:21
+#: Scripts/GameMechanics/score_ui.gd:10
 msgid "Great"
 msgstr ""
 
-#: Scripts/persistent_data.gd:22
+#: Scripts/GameMechanics/score_ui.gd:11
 msgid "Amazing"
 msgstr ""
 
-#: Scripts/persistent_data.gd:23
+#: Scripts/GameMechanics/score_ui.gd:12
 msgid "Double"
 msgstr ""
 
-#: Scripts/persistent_data.gd:24
+#: Scripts/GameMechanics/score_ui.gd:13
 msgid "Perfect"
 msgstr ""
 
-#: Scripts/persistent_data.gd:25
+#: Scripts/GameMechanics/score_ui.gd:14
 msgid "Deadlock"
 msgstr ""
 
-#: Scripts/persistent_data.gd:26
+#: Scripts/GameMechanics/score_ui.gd:15
 msgid "All Clear"
 msgstr ""
 

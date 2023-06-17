@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-06-10 14:05+0300\n"
-"PO-Revision-Date: 2023-06-10 14:11+0300\n"
+"PO-Revision-Date: 2023-06-17 13:32+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -203,39 +203,39 @@ msgstr "Pistetaulu"
 msgid "Timed"
 msgstr "Ajastettu"
 
-#: Scripts/persistent_data.gd:18
+#: Scripts/GameMechanics/score_ui.gd:7
 msgid "Unfortunate"
 msgstr "Valitettava"
 
-#: Scripts/persistent_data.gd:19
+#: Scripts/GameMechanics/score_ui.gd:8
 msgid "OK"
 msgstr "Najaa"
 
-#: Scripts/persistent_data.gd:20
+#: Scripts/GameMechanics/score_ui.gd:9
 msgid "Good"
 msgstr "Hyvää"
 
-#: Scripts/persistent_data.gd:21
+#: Scripts/GameMechanics/score_ui.gd:10
 msgid "Great"
 msgstr "Suurenmoista"
 
-#: Scripts/persistent_data.gd:22
+#: Scripts/GameMechanics/score_ui.gd:11
 msgid "Amazing"
 msgstr "Mainiota"
 
-#: Scripts/persistent_data.gd:23
+#: Scripts/GameMechanics/score_ui.gd:12
 msgid "Double"
 msgstr "Tuplaa"
 
-#: Scripts/persistent_data.gd:24
+#: Scripts/GameMechanics/score_ui.gd:13
 msgid "Perfect"
 msgstr "Moitteetonta"
 
-#: Scripts/persistent_data.gd:25
+#: Scripts/GameMechanics/score_ui.gd:14
 msgid "Deadlock"
 msgstr "Tosi ovela"
 
-#: Scripts/persistent_data.gd:26
+#: Scripts/GameMechanics/score_ui.gd:15
 msgid "All Clear"
 msgstr "Kaikki sileäksi"
 
