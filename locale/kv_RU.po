@@ -20,7 +20,7 @@ msgstr ""
 
 #: Scripts/Menu/set_slider.gd:34 set_slider.gd:34
 msgid "Music"
-msgstr "Музыка"
+msgstr "Шылад"
 
 #: Scripts/Menu/set_slider.gd:40 set_slider.gd:40
 msgid "SFX"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: Scenes/Game.tscn:759 Scenes/Game.tscn:846
 msgid "Restart"
-msgstr "Выль пӧв ворсны"
+msgstr "Выльысь"
 
 #: Scenes/Game.tscn:786 Scenes/Game.tscn:875
 msgid "Menu"
@@ -44,7 +44,7 @@ msgstr "Меню"
 
 #: Scenes/Game.tscn:901
 msgid "Unpause"
-msgstr "Водзлань"
+msgstr "Водзӧ"
 
 #: Scenes/GameScene.tscn:169
 msgid "Play"
@@ -52,7 +52,7 @@ msgstr "Ворсны"
 
 #: Scenes/GameScene.tscn:195
 msgid "Quit"
-msgstr "Дугдыны"
+msgstr "Петны"
 
 #: Scenes/GameScene.tscn:221 Scenes/GameScene.tscn:1126
 msgid "Info"
@@ -60,20 +60,20 @@ msgstr "Инфо"
 
 #: Scenes/GameScene.tscn:247 Scenes/GameScene.tscn:300
 msgid "Options"
-msgstr "Индӧдъяс"
+msgstr "Муртӧсъяс"
 
 #: Scenes/GameScene.tscn:276 Scenes/GameScene.tscn:811
 msgid "Stats"
-msgstr "Балъяс"
+msgstr "Лыд арт"
 
 #: Scenes/GameScene.tscn:324 Scenes/GameScene.tscn:630
 #: Scenes/GameScene.tscn:902 Scenes/GameScene.tscn:1112
 msgid "Back"
-msgstr "Бӧрвыв"
+msgstr "Бӧр"
 
 #: Scenes/GameScene.tscn:350 Scenes/SplashScreen.tscn:251
 msgid "Delete"
-msgstr "Бырӧдны"
+msgstr "Чышкыны"
 
 #: Scenes/GameScene.tscn:376
 msgid "Language"
@@ -88,17 +88,17 @@ msgid ""
 "\n"
 "(The game will quit)"
 msgstr ""
-"Тэ збыль кӧсъян\n"
-" бырӧдны тайӧ файл?\n"
+"Збыльысь-ӧ тэ кӧсъян\n"
+" чышкыны тайӧ файлсӧ?\n"
 "\n"
-"Та бӧрын ворсӧмыд гашкӧ бурджыка кутас уджавны, сӧмын ас датаястӧ колӧ "
-"бырӧдны!\n"
+"Мукӧд выльмӧдӧм мытшӧдъяссӧ вермас лӧсьӧдны, сӧмын мыччӧдъясыд "
+"чышкысясны!\n"
 "\n"
-"(Ворсӧмторйыд дугдас)"
+"(Ворсӧмторйыд кусас)"
 
 #: Scenes/GameScene.tscn:518
 msgid "Yes"
-msgstr "Кӧсъя"
+msgstr "Но"
 
 #: Scenes/GameScene.tscn:543
 msgid "No"
@@ -106,7 +106,7 @@ msgstr "Ог"
 
 #: Scenes/GameScene.tscn:578 Scenes/Stats.gd:21
 msgid "Quickplay"
-msgstr "Ворс нин"
+msgstr "Тэрыба ворс"
 
 #: Scenes/GameScene.tscn:604 Scenes/Stats.gd:24
 msgid "Infinite"
@@ -122,11 +122,11 @@ msgstr "Ворсанног"
 
 #: Scenes/GameScene.tscn:698
 msgid "Difficulty Menu"
-msgstr "Сьӧкыдлун меню"
+msgstr "Сьӧкыдлун бӧрйӧм"
 
 #: Scenes/GameScene.tscn:722 Scenes/Stats.gd:40
 msgid "Normal"
-msgstr "Быдлунся"
+msgstr "Шӧркодь"
 
 #: Scenes/GameScene.tscn:747 Scenes/Stats.gd:42
 msgid "Hard"
@@ -134,11 +134,11 @@ msgstr "Сьӧкыд"
 
 #: Scenes/GameScene.tscn:770 Scenes/Stats.gd:44
 msgid "Expert"
-msgstr "Удж тӧдысь"
+msgstr "Кужысь"
 
 #: Scenes/GameScene.tscn:794 Scenes/Stats.gd:46
 msgid "Ludicrous"
-msgstr "Туйтӧм"
+msgstr "Тешкодь"
 
 #: Scenes/GameScene.tscn:936
 msgid "Credits"
@@ -174,7 +174,7 @@ msgstr "Кыв бӧрйӧм"
 
 #: Scenes/SplashScreen.tscn:201
 msgid "THE GAME IS STILL IN DEVELOPMENT"
-msgstr "ТАЙӦ ВОРСӦМТОРЙЫД АБУ НА ДАСЬ"
+msgstr "ТАЙӦ ВОРСӦМТОРЙЫС ВӦЧСЬӦ НА"
 
 #: Scenes/SplashScreen.tscn:226
 msgid ""
@@ -186,17 +186,17 @@ msgid ""
 "\n"
 "Delete data?"
 msgstr ""
-"Даннӧйясысь сюрӧмаӧсь тырмытӧмторъяс\n"
+"Торксьӧм мыччӧдъяс сюрисны\n"
 "\n"
-"(Даннӧйястӧ оз позь лыддьыны дай оз позь видзны)\n"
+"(Мыччӧдтӧ лыддьыны да кольны оз артмы)\n"
 "\n"
-"Кӧсъян кӧ ворсны, колӧ найӧс бырӧдны\n"
+"Кӧсъян кӧ ворсны, ковмас тайӧс чышкыны\n"
 "\n"
-"Бырӧдны даннӧйяс?"
+"Чышкыны-ӧ мыччӧдтӧ?"
 
 #: Scenes/Stats.gd:7
 msgid "Scoreboard"
-msgstr "Пӧв"
+msgstr "Лыдпӧв"
 
 #: Scenes/Stats.gd:27
 msgid "Timed"
@@ -208,7 +208,7 @@ msgstr "Шудтӧм"
 
 #: Scripts/GameMechanics/score_ui.gd:8
 msgid "OK"
-msgstr "ДА"
+msgstr "НО"
 
 #: Scripts/GameMechanics/score_ui.gd:9
 msgid "Good"
@@ -236,7 +236,7 @@ msgstr "Пикӧ воӧм"
 
 #: Scripts/GameMechanics/score_ui.gd:15
 msgid "All Clear"
-msgstr "Ставсӧ чышкӧм"
+msgstr "Ставыс шыльыд"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:29
 msgid "GAME PAUSED"
@@ -262,20 +262,20 @@ msgstr "ВОДЗВЫВ МЕДЫДЖЫД ЛЫД"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:127
 msgid "YOUR SCORE"
-msgstr "АС БАЛЪЯС"
+msgstr "ТЭНАД ЛЫД"
 
 #: Scripts/GameMechanics/score_ui.gd:85
 msgid "PERFECT"
 msgstr "МАЙБЫР"
 
 #~ msgid "QuickPlay"
-#~ msgstr "ВорсНин"
+#~ msgstr "ТэрыбаВорс"
 
 #~ msgid "Finnish"
 #~ msgstr "Фин кыв"
 
 #~ msgid "Skolt Sami"
-#~ msgstr "СКолт саам кыв"
+#~ msgstr "Сколт саам кыв"
 
 #~ msgid "Erzya"
 #~ msgstr "Эрзя кыв"
