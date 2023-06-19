@@ -224,7 +224,7 @@ msgstr "Шензьӧдана"
 
 #: Scripts/GameMechanics/score_ui.gd:12
 msgid "Double"
-msgstr "Кыка"
+msgstr "Кыкмӧм"
 
 #: Scripts/GameMechanics/score_ui.gd:13
 msgid "Perfect"
