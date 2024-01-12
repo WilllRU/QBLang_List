@@ -1,14 +1,14 @@
 # Translations template for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
+# Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-12-07 14:20+0200\n"
+"POT-Creation-Date: 2024-01-12 16:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,154 +17,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: Scenes/Game.tscn:678
+#: Scenes/Game.tscn:691
 msgid "000.0"
 msgstr ""
 
-#: Scenes/Game.tscn:687
+#: Scenes/Game.tscn:700
 msgid "+ 50.0"
 msgstr ""
 
-#: Scenes/Game.tscn:709
+#: Scenes/Game.tscn:722
 msgid "0      00"
 msgstr ""
 
-#: Scenes/Game.tscn:851 Scenes/Game.tscn:928
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:21
+#: Scenes/Game.tscn:894 Scenes/Game.tscn:971
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:22
 msgid "Restart"
 msgstr ""
 
-#: Scenes/Game.tscn:879 Scenes/Game.tscn:956
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:19
+#: Scenes/Game.tscn:922 Scenes/Game.tscn:999
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:20
 msgid "Menu"
 msgstr ""
 
-#: Scenes/Game.tscn:984 Scripts/ButtonBehaviour/ingame_ui_buttons.gd:20
+#: Scenes/Game.tscn:1027 Scripts/ButtonBehaviour/ingame_ui_buttons.gd:21
 msgid "Unpause"
 msgstr ""
 
-#: Scenes/Game.tscn:1008
+#: Scenes/Game.tscn:1051
 msgid "Left"
 msgstr ""
 
-#: Scenes/Game.tscn:1025
+#: Scenes/Game.tscn:1068
 msgid "Middle"
 msgstr ""
 
-#: Scenes/Game.tscn:1042
+#: Scenes/Game.tscn:1085
 msgid "Right"
-msgstr ""
-
-#: Scenes/GameScene.tscn:141 Scenes/MenuScene.tscn:319
-msgid "language"
-msgstr ""
-
-#: Scenes/GameScene.tscn:172 Scenes/MenuScene.tscn:349
-msgid "Play"
-msgstr ""
-
-#: Scenes/GameScene.tscn:198 Scenes/MenuScene.tscn:375
-msgid "Quit"
-msgstr ""
-
-#: Scenes/GameScene.tscn:224 Scenes/GameScene.tscn:1123
-#: Scenes/MenuScene.tscn:401 Scenes/MenuScene.tscn:1795
-msgid "Info"
-msgstr ""
-
-#: Scenes/GameScene.tscn:250 Scenes/GameScene.tscn:303
-#: Scenes/MenuScene.tscn:427 Scenes/MenuScene.tscn:480
-msgid "Options"
-msgstr ""
-
-#: Scenes/GameScene.tscn:279 Scenes/GameScene.tscn:811
-#: Scenes/MenuScene.tscn:456 Scenes/MenuScene.tscn:1321
-msgid "Stats"
-msgstr ""
-
-#: Scenes/GameScene.tscn:327 Scenes/GameScene.tscn:630
-#: Scenes/GameScene.tscn:902 Scenes/GameScene.tscn:1112
-#: Scenes/MenuScene.tscn:503 Scenes/MenuScene.tscn:945
-#: Scenes/MenuScene.tscn:1226 Scenes/MenuScene.tscn:1412
-#: Scenes/MenuScene.tscn:1784
-msgid "Back"
-msgstr ""
-
-#: Scenes/GameScene.tscn:350 Scenes/MenuScene.tscn:526
-#: Scenes/SplashScreen.tscn:251
-msgid "Delete"
-msgstr ""
-
-#: Scenes/GameScene.tscn:376 Scenes/MenuScene.tscn:552
-msgid "Language"
-msgstr ""
-
-#: Scenes/GameScene.tscn:486 Scenes/MenuScene.tscn:775
-msgid ""
-"Are you sure you want\n"
-" to delete your save file?\n"
-"\n"
-"This might fix some update problems but will remove all your data!\n"
-"\n"
-"(The game will quit)"
-msgstr ""
-
-#: Scenes/GameScene.tscn:518 Scenes/MenuScene.tscn:807
-msgid "Yes"
-msgstr ""
-
-#: Scenes/GameScene.tscn:543 Scenes/MenuScene.tscn:832
-#: Scenes/MenuScene.tscn:1301
-msgid "No"
-msgstr ""
-
-#: Scenes/GameScene.tscn:578 Scenes/MenuScene.tscn:867
-#: Scenes/MenuScene.tscn:1181 Scenes/Stats.gd:21 Scripts/Menu/Stats.gd:25
-#: Scripts/Menu/stat_info_tree.gd:56
-msgid "Quickplay"
-msgstr ""
-
-#: Scenes/GameScene.tscn:604 Scenes/MenuScene.tscn:893
-#: Scenes/MenuScene.tscn:1203 Scenes/Stats.gd:24 Scripts/Menu/Stats.gd:28
-#: Scripts/Menu/stat_info_tree.gd:59
-msgid "Infinite"
-msgstr ""
-
-#: Scenes/GameScene.tscn:657 Scenes/MenuScene.tscn:973
-#: Scenes/MenuScene.tscn:1129
-msgid "Tutorial"
-msgstr ""
-
-#: Scenes/GameScene.tscn:671 Scenes/MenuScene.tscn:986
-msgid "GameMode"
-msgstr ""
-
-#: Scenes/GameScene.tscn:698
-msgid "Difficulty Menu"
-msgstr ""
-
-#: Scenes/GameScene.tscn:722 Scenes/MenuScene.tscn:1035 Scenes/Stats.gd:40
-#: Scripts/Menu/Stats.gd:63 Scripts/Menu/stat_info_tree.gd:83
-msgid "Normal"
-msgstr ""
-
-#: Scenes/GameScene.tscn:747 Scenes/MenuScene.tscn:1060 Scenes/Stats.gd:42
-#: Scripts/Menu/Stats.gd:65 Scripts/Menu/stat_info_tree.gd:85
-msgid "Hard"
-msgstr ""
-
-#: Scenes/GameScene.tscn:770 Scenes/MenuScene.tscn:1084 Scenes/Stats.gd:44
-#: Scripts/Menu/Stats.gd:67 Scripts/Menu/stat_info_tree.gd:87
-msgid "Expert"
-msgstr ""
-
-#: Scenes/GameScene.tscn:794 Scenes/MenuScene.tscn:1109 Scenes/Stats.gd:46
-#: Scripts/Menu/Stats.gd:69 Scripts/Menu/stat_info_tree.gd:89
-msgid "Ludicrous"
-msgstr ""
-
-#: Scenes/GameScene.tscn:1089 Scenes/MenuScene.tscn:1761
-msgid "Credits"
 msgstr ""
 
 #: Scenes/LanguageMenu.tscn:42
@@ -195,28 +83,134 @@ msgstr ""
 msgid "Language Menu"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:747
+#: Scenes/MenuScene.tscn:306
+msgid "language"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:336
+msgid "Play"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:362
+msgid "Quit"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:388 Scenes/MenuScene.tscn:1792
+msgid "Info"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:414 Scenes/MenuScene.tscn:475
+msgid "Options"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:443 Scenes/MenuScene.tscn:1316
+msgid "Stats"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:498 Scenes/MenuScene.tscn:940
+#: Scenes/MenuScene.tscn:1221 Scenes/MenuScene.tscn:1407
+#: Scenes/MenuScene.tscn:1781
+msgid "Back"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:521 Scenes/SplashScreen.tscn:257
+msgid "Delete"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:547
+msgid "Language"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:742
 msgid "5 / ??"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:919 Scenes/Stats.gd:27 Scripts/Menu/Stats.gd:31
+#: Scenes/MenuScene.tscn:770
+msgid ""
+"Are you sure you want\n"
+" to delete your save file?\n"
+"\n"
+"This might fix some update problems but will remove all your data!\n"
+"\n"
+"(The game will quit)"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:802
+msgid "Yes"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:827 Scenes/MenuScene.tscn:1296
+msgid "No"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:862 Scenes/MenuScene.tscn:1176
+#: Scripts/Menu/Stats.gd:25 Scripts/Menu/stat_info_tree.gd:56
+msgid "Quickplay"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:888 Scenes/MenuScene.tscn:1198
+#: Scripts/Menu/Stats.gd:28 Scripts/Menu/stat_info_tree.gd:59
+msgid "Infinite"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:914 Scripts/Menu/Stats.gd:31
 #: Scripts/Menu/stat_info_tree.gd:62
 msgid "Timed"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1162
+#: Scenes/MenuScene.tscn:968 Scenes/MenuScene.tscn:1124
+msgid "Tutorial"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:981
+msgid "GameMode"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1030 Scripts/Menu/Stats.gd:63
+#: Scripts/Menu/stat_info_tree.gd:83
+msgid "Normal"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1055 Scripts/Menu/Stats.gd:65
+#: Scripts/Menu/stat_info_tree.gd:85
+msgid "Hard"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1079 Scripts/Menu/Stats.gd:67
+#: Scripts/Menu/stat_info_tree.gd:87
+msgid "Expert"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1104 Scripts/Menu/Stats.gd:69
+#: Scripts/Menu/stat_info_tree.gd:89
+msgid "Ludicrous"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1157
 msgid "Basics:"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1253
+#: Scenes/MenuScene.tscn:1248
 msgid "Tips"
 msgstr ""
 
-#: Scenes/SplashScreen.tscn:201
+#: Scenes/MenuScene.tscn:1758
+msgid "Credits"
+msgstr ""
+
+#: Scenes/SplashScreen.tscn:182
 msgid "THE GAME IS STILL IN DEVELOPMENT"
 msgstr ""
 
-#: Scenes/SplashScreen.tscn:226
+#: Scenes/SplashScreen.tscn:197
+msgid "Headphones are recommended"
+msgstr ""
+
+#: Scenes/SplashScreen.tscn:208
+msgid "A game by: WillRU"
+msgstr ""
+
+#: Scenes/SplashScreen.tscn:232
 msgid ""
 "Corrupted Data found\n"
 "\n"
@@ -227,106 +221,106 @@ msgid ""
 "Delete data?"
 msgstr ""
 
-#: Scenes/Stats.gd:7 Scripts/Menu/Stats.gd:7
-msgid "Scoreboard"
-msgstr ""
-
-#: Scripts/camera_control.gd:60
+#: Scripts/camera_control.gd:64
 msgid "Difficulty Menu:"
 msgstr ""
 
-#: Scripts/camera_control.gd:64
+#: Scripts/camera_control.gd:68
 msgid "Play one quick round."
 msgstr ""
 
-#: Scripts/camera_control.gd:68
+#: Scripts/camera_control.gd:72
 msgid "Play for as long as you want."
 msgstr ""
 
-#: Scripts/camera_control.gd:71
+#: Scripts/camera_control.gd:75
 msgid "Play for as long as the time lasts."
 msgstr ""
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:48
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:49
 msgid "GAME PAUSED"
 msgstr ""
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:48
-#: Scripts/GameMechanics/GameManager.gd:157
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:49
+#: Scripts/GameMechanics/GameManager.gd:281
 msgid "HIGH SCORE"
 msgstr ""
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:48
-#: Scripts/GameMechanics/GameManager.gd:159
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:49
+#: Scripts/GameMechanics/GameManager.gd:283
 msgid "HIGHEST COMBO"
 msgstr ""
 
-#: Scripts/GameMechanics/GameManager.gd:86
+#: Scripts/GameMechanics/GameManager.gd:167
 msgid "Level"
 msgstr ""
 
-#: Scripts/GameMechanics/GameManager.gd:86
+#: Scripts/GameMechanics/GameManager.gd:167
 msgid "Difficulty"
 msgstr ""
 
-#: Scripts/GameMechanics/GameManager.gd:155
+#: Scripts/GameMechanics/GameManager.gd:279
 msgid "NEW HIGH SCORE!"
 msgstr ""
 
-#: Scripts/GameMechanics/GameManager.gd:155
+#: Scripts/GameMechanics/GameManager.gd:279
 msgid "PREVIOUS HIGH SCORE"
 msgstr ""
 
-#: Scripts/GameMechanics/GameManager.gd:157
+#: Scripts/GameMechanics/GameManager.gd:281
 msgid "YOUR SCORE"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:23
+#: Scripts/GameMechanics/ScorePopups.gd:47
 msgid "Unfortunate"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:24
+#: Scripts/GameMechanics/ScorePopups.gd:48
 msgid "OK"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:25
+#: Scripts/GameMechanics/ScorePopups.gd:49
 msgid "Good"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:26
+#: Scripts/GameMechanics/ScorePopups.gd:50
 msgid "Great"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:27
+#: Scripts/GameMechanics/ScorePopups.gd:51
 msgid "Amazing"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:28
+#: Scripts/GameMechanics/ScorePopups.gd:52
 msgid "Double"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:29
+#: Scripts/GameMechanics/ScorePopups.gd:53
 msgid "Perfect"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:30
+#: Scripts/GameMechanics/ScorePopups.gd:54
 msgid "Deadlock"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:31 Scripts/Menu/stat_info_tree.gd:109
+#: Scripts/GameMechanics/ScorePopups.gd:55 Scripts/Menu/stat_info_tree.gd:111
 msgid "All Clear"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:32
+#: Scripts/GameMechanics/ScorePopups.gd:56
 msgid "Swish"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:33
+#: Scripts/GameMechanics/ScorePopups.gd:57
 msgid "Impossible!"
 msgstr ""
 
-#: Scripts/GameMechanics/score_ui.gd:230
+#: Scripts/GameMechanics/score_ui.gd:137
 msgid "PERFECT"
+msgstr ""
+
+#: Scripts/Menu/Stats.gd:7
+msgid "Scoreboard"
 msgstr ""
 
 #: Scripts/Menu/set_slider.gd:35
@@ -349,35 +343,35 @@ msgstr ""
 msgid "Misc. Stats"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:112
+#: Scripts/Menu/stat_info_tree.gd:114
 msgid "Blocks Cleared"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:115
+#: Scripts/Menu/stat_info_tree.gd:117
 msgid "Deadlock Count"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:118
+#: Scripts/Menu/stat_info_tree.gd:120
 msgid "Double Count"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:121
+#: Scripts/Menu/stat_info_tree.gd:123
 msgid "Left Turns"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:124
+#: Scripts/Menu/stat_info_tree.gd:126
 msgid "Quick Drops"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:127
+#: Scripts/Menu/stat_info_tree.gd:129
 msgid "Right Turns"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:130
+#: Scripts/Menu/stat_info_tree.gd:132
 msgid "Swish Count"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:133
+#: Scripts/Menu/stat_info_tree.gd:135
 msgid "Impossibles"
 msgstr ""
 
