@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-12 16:39+0200\n"
-"PO-Revision-Date: 2024-01-12 16:42+0200\n"
+"POT-Creation-Date: 2024-01-18 11:01+0200\n"
+"PO-Revision-Date: 2024-01-18 11:16+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: kv_RU\n"
@@ -84,51 +84,67 @@ msgstr ""
 msgid "Language Menu"
 msgstr "Кыв бӧрйӧм"
 
-#: Scenes/MenuScene.tscn:306
+#: Scenes/MenuScene.tscn:934
 #, fuzzy
 #| msgid "Language"
 msgid "language"
 msgstr "Кыв"
 
-#: Scenes/MenuScene.tscn:336
+#: Scenes/MenuScene.tscn:964
 msgid "Play"
 msgstr "Ворсны"
 
-#: Scenes/MenuScene.tscn:362
+#: Scenes/MenuScene.tscn:990
 msgid "Quit"
 msgstr "Петны"
 
-#: Scenes/MenuScene.tscn:388 Scenes/MenuScene.tscn:1792
+#: Scenes/MenuScene.tscn:1016 Scenes/MenuScene.tscn:2545
 msgid "Info"
 msgstr "Инфо"
 
-#: Scenes/MenuScene.tscn:414 Scenes/MenuScene.tscn:475
+#: Scenes/MenuScene.tscn:1042 Scenes/MenuScene.tscn:1104
 msgid "Options"
 msgstr "Муртӧсъяс"
 
-#: Scenes/MenuScene.tscn:443 Scenes/MenuScene.tscn:1316
+#: Scenes/MenuScene.tscn:1071 Scenes/MenuScene.tscn:2067
 msgid "Stats"
 msgstr "Лыд арт"
 
-#: Scenes/MenuScene.tscn:498 Scenes/MenuScene.tscn:940
-#: Scenes/MenuScene.tscn:1221 Scenes/MenuScene.tscn:1407
-#: Scenes/MenuScene.tscn:1781
+#: Scenes/MenuScene.tscn:1127 Scenes/MenuScene.tscn:1692
+#: Scenes/MenuScene.tscn:1972 Scenes/MenuScene.tscn:2158
+#: Scenes/MenuScene.tscn:2534
 msgid "Back"
 msgstr "Бӧр"
 
-#: Scenes/MenuScene.tscn:521 Scenes/SplashScreen.tscn:257
+#: Scenes/MenuScene.tscn:1150 Scenes/SplashScreen.tscn:257
 msgid "Delete"
 msgstr "Чышкыны"
 
-#: Scenes/MenuScene.tscn:547
+#: Scenes/MenuScene.tscn:1176
 msgid "Language"
 msgstr "Кыв"
 
-#: Scenes/MenuScene.tscn:742
+#: Scenes/MenuScene.tscn:1209
+msgid "Change your sound options here!"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1282
+msgid "Adjust your controls here!"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1300
+msgid "Quickdrop Method:"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1326
+msgid "Extra things to change"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1348 Scenes/MenuScene.tscn:1485
 msgid "5 / ??"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:770
+#: Scenes/MenuScene.tscn:1522
 msgid ""
 "Are you sure you want\n"
 " to delete your save file?\n"
@@ -144,66 +160,68 @@ msgstr ""
 "\n"
 "(Ворсӧмторйыд кусас)"
 
-#: Scenes/MenuScene.tscn:802
+#: Scenes/MenuScene.tscn:1554
 msgid "Yes"
 msgstr "Но"
 
-#: Scenes/MenuScene.tscn:827 Scenes/MenuScene.tscn:1296
+#: Scenes/MenuScene.tscn:1579 Scenes/MenuScene.tscn:2047
 msgid "No"
 msgstr "Ог"
 
-#: Scenes/MenuScene.tscn:862 Scenes/MenuScene.tscn:1176
-#: Scripts/Menu/Stats.gd:25 Scripts/Menu/stat_info_tree.gd:56
+#: Scenes/MenuScene.tscn:1614 Scenes/MenuScene.tscn:1927
+#: Scripts/Menu/Stats.gd:25 Scripts/Menu/stat_info_tree.gd:57
 msgid "Quickplay"
 msgstr "Тэрыба ворс"
 
-#: Scenes/MenuScene.tscn:888 Scenes/MenuScene.tscn:1198
-#: Scripts/Menu/Stats.gd:28 Scripts/Menu/stat_info_tree.gd:59
+#: Scenes/MenuScene.tscn:1640 Scenes/MenuScene.tscn:1949
+#: Scripts/Menu/Stats.gd:28 Scripts/Menu/stat_info_tree.gd:60
 msgid "Infinite"
 msgstr "Дугдывтӧг"
 
-#: Scenes/MenuScene.tscn:914 Scripts/Menu/Stats.gd:31
-#: Scripts/Menu/stat_info_tree.gd:62
+#: Scenes/MenuScene.tscn:1666 Scripts/Menu/Stats.gd:31
+#: Scripts/Menu/stat_info_tree.gd:63
 msgid "Timed"
 msgstr "Кад серти"
 
-#: Scenes/MenuScene.tscn:968 Scenes/MenuScene.tscn:1124
+#: Scenes/MenuScene.tscn:1720 Scenes/MenuScene.tscn:1875
 msgid "Tutorial"
 msgstr "Велӧдӧмтор"
 
-#: Scenes/MenuScene.tscn:981
-msgid "GameMode"
+#: Scenes/MenuScene.tscn:1733 Scripts/Menu/stat_info_tree.gd:25
+#, fuzzy
+#| msgid "GameMode"
+msgid "Gamemode"
 msgstr "Ворсанног"
 
-#: Scenes/MenuScene.tscn:1030 Scripts/Menu/Stats.gd:63
-#: Scripts/Menu/stat_info_tree.gd:83
+#: Scenes/MenuScene.tscn:1782 Scripts/Menu/Stats.gd:63
+#: Scripts/Menu/stat_info_tree.gd:85
 msgid "Normal"
 msgstr "Шӧркодь"
 
-#: Scenes/MenuScene.tscn:1055 Scripts/Menu/Stats.gd:65
-#: Scripts/Menu/stat_info_tree.gd:85
+#: Scenes/MenuScene.tscn:1807 Scripts/Menu/Stats.gd:65
+#: Scripts/Menu/stat_info_tree.gd:87
 msgid "Hard"
 msgstr "Сьӧкыд"
 
-#: Scenes/MenuScene.tscn:1079 Scripts/Menu/Stats.gd:67
-#: Scripts/Menu/stat_info_tree.gd:87
+#: Scenes/MenuScene.tscn:1831 Scripts/Menu/Stats.gd:67
+#: Scripts/Menu/stat_info_tree.gd:89
 msgid "Expert"
 msgstr "Кужысь"
 
-#: Scenes/MenuScene.tscn:1104 Scripts/Menu/Stats.gd:69
-#: Scripts/Menu/stat_info_tree.gd:89
+#: Scenes/MenuScene.tscn:1856 Scripts/Menu/Stats.gd:69
+#: Scripts/Menu/stat_info_tree.gd:91
 msgid "Ludicrous"
 msgstr "Тешкодь"
 
-#: Scenes/MenuScene.tscn:1157
+#: Scenes/MenuScene.tscn:1908
 msgid "Basics:"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1248
+#: Scenes/MenuScene.tscn:1999
 msgid "Tips"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1758
+#: Scenes/MenuScene.tscn:2511
 msgid "Credits"
 msgstr "Аттьӧалӧм"
 
@@ -237,57 +255,67 @@ msgstr ""
 "\n"
 "Чышкыны-ӧ мыччӧдтӧ?"
 
-#: Scripts/camera_control.gd:64
+#: Scripts/camera_control.gd:73
+#, fuzzy
+#| msgid "Double"
+msgid "Double Tap"
+msgstr "Кыкмӧм"
+
+#: Scripts/camera_control.gd:75
+msgid "Long Press"
+msgstr ""
+
+#: Scripts/camera_control.gd:80
 #, fuzzy
 #| msgid "Difficulty Menu"
 msgid "Difficulty Menu:"
 msgstr "Сьӧкыдлун бӧрйӧм"
 
-#: Scripts/camera_control.gd:68
+#: Scripts/camera_control.gd:84
 msgid "Play one quick round."
 msgstr ""
 
-#: Scripts/camera_control.gd:72
+#: Scripts/camera_control.gd:88
 msgid "Play for as long as you want."
 msgstr ""
 
-#: Scripts/camera_control.gd:75
+#: Scripts/camera_control.gd:91
 msgid "Play for as long as the time lasts."
 msgstr ""
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:49
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:60
 msgid "GAME PAUSED"
 msgstr "ВОРСӦМ СУВТӦДӦМА"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:49
-#: Scripts/GameMechanics/GameManager.gd:281
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:60
+#: Scripts/GameMechanics/GameManager.gd:291
 msgid "HIGH SCORE"
 msgstr "МЕДЫДЖЫД ЛЫД"
 
-#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:49
-#: Scripts/GameMechanics/GameManager.gd:283
+#: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:60
+#: Scripts/GameMechanics/GameManager.gd:293
 msgid "HIGHEST COMBO"
 msgstr "МЕДЫДЖЫД КОМБО"
 
-#: Scripts/GameMechanics/GameManager.gd:167
+#: Scripts/GameMechanics/GameManager.gd:170
 msgid "Level"
 msgstr ""
 
-#: Scripts/GameMechanics/GameManager.gd:167
+#: Scripts/GameMechanics/GameManager.gd:170
 #, fuzzy
 #| msgid "Difficulty Menu"
 msgid "Difficulty"
 msgstr "Сьӧкыдлун бӧрйӧм"
 
-#: Scripts/GameMechanics/GameManager.gd:279
+#: Scripts/GameMechanics/GameManager.gd:289
 msgid "NEW HIGH SCORE!"
 msgstr "ВЫЛЬ МЕДЫДЖЫД ЛЫД!"
 
-#: Scripts/GameMechanics/GameManager.gd:279
+#: Scripts/GameMechanics/GameManager.gd:289
 msgid "PREVIOUS HIGH SCORE"
 msgstr "ВОДЗВЫВ МЕДЫДЖЫД ЛЫД"
 
-#: Scripts/GameMechanics/GameManager.gd:281
+#: Scripts/GameMechanics/GameManager.gd:291
 msgid "YOUR SCORE"
 msgstr "ТЭНАД ЛЫД"
 
@@ -323,7 +351,7 @@ msgstr "Майбыр"
 msgid "Deadlock"
 msgstr "Пикӧ воӧм"
 
-#: Scripts/GameMechanics/ScorePopups.gd:55 Scripts/Menu/stat_info_tree.gd:111
+#: Scripts/GameMechanics/ScorePopups.gd:55 Scripts/Menu/stat_info_tree.gd:116
 msgid "All Clear"
 msgstr "Ставыс шыльыд"
 
@@ -343,69 +371,70 @@ msgstr "МАЙБЫР"
 msgid "Scoreboard"
 msgstr "Лыдпӧв"
 
-#: Scripts/Menu/set_slider.gd:35
+#: Scripts/Menu/set_slider.gd:38
 msgid "Music"
 msgstr "Шылад"
 
-#: Scripts/Menu/set_slider.gd:41
+#: Scripts/Menu/set_slider.gd:44
 msgid "SFX"
 msgstr "Шыяс"
 
-#: Scripts/Menu/set_slider.gd:47
+#: Scripts/Menu/set_slider.gd:50
 msgid "Palette"
 msgstr "Рӧмъяс"
 
-#: Scripts/Menu/stat_info_tree.gd:24
-#, fuzzy
-#| msgid "GameMode"
-msgid "Gamemode"
-msgstr "Ворсанног"
+#: Scripts/Menu/stat_info_tree.gd:17
+msgid "Player Stats"
+msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:34
+#: Scripts/Menu/stat_info_tree.gd:35
 #, fuzzy
 #| msgid "Stats"
 msgid "Misc. Stats"
 msgstr "Лыд арт"
 
-#: Scripts/Menu/stat_info_tree.gd:114
+#: Scripts/Menu/stat_info_tree.gd:119
 #, fuzzy
 #| msgid "All Clear"
 msgid "Blocks Cleared"
 msgstr "Ставыс шыльыд"
 
-#: Scripts/Menu/stat_info_tree.gd:117
+#: Scripts/Menu/stat_info_tree.gd:122
 #, fuzzy
 #| msgid "Deadlock"
 msgid "Deadlock Count"
 msgstr "Пикӧ воӧм"
 
-#: Scripts/Menu/stat_info_tree.gd:120
+#: Scripts/Menu/stat_info_tree.gd:125
 #, fuzzy
 #| msgid "Double"
 msgid "Double Count"
 msgstr "Кыкмӧм"
 
-#: Scripts/Menu/stat_info_tree.gd:123
+#: Scripts/Menu/stat_info_tree.gd:128
 msgid "Left Turns"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:126
+#: Scripts/Menu/stat_info_tree.gd:131
 #, fuzzy
 #| msgid "Quickplay"
 msgid "Quick Drops"
 msgstr "Тэрыба ворс"
 
-#: Scripts/Menu/stat_info_tree.gd:129
+#: Scripts/Menu/stat_info_tree.gd:134
 msgid "Right Turns"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:132
+#: Scripts/Menu/stat_info_tree.gd:137
 msgid "Swish Count"
 msgstr ""
 
-#: Scripts/Menu/stat_info_tree.gd:135
+#: Scripts/Menu/stat_info_tree.gd:140
 msgid "Impossibles"
 msgstr ""
+
+#~ msgid "GameMode"
+#~ msgstr "Ворсанног"
 
 #~ msgid "Difficulty Menu"
 #~ msgstr "Сьӧкыдлун бӧрйӧм"
