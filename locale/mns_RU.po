@@ -86,9 +86,7 @@ msgid "Language Menu"
 msgstr "Ла̄тыӈ пе̄риянэ меню"
 
 #: Scenes/MenuScene.tscn:934
-#, fuzzy
-#| msgid "Language"
-msgid "language"
+msgid "Language"
 msgstr "Ла̄тӈыт"
 
 #: Scenes/MenuScene.tscn:964
@@ -188,8 +186,6 @@ msgid "Tutorial"
 msgstr "Ханищтап"
 
 #: Scenes/MenuScene.tscn:1733 Scripts/Menu/stat_info_tree.gd:25
-#, fuzzy
-#| msgid "GameMode"
 msgid "Gamemode"
 msgstr "Хоса ман ва̄ти ёнгуӈкве таӈхе̄гын?"
 

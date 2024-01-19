@@ -85,9 +85,7 @@ msgid "Language Menu"
 msgstr "Кыв бӧрйӧм"
 
 #: Scenes/MenuScene.tscn:934
-#, fuzzy
-#| msgid "Language"
-msgid "language"
+msgid "Language"
 msgstr "Кыв"
 
 #: Scenes/MenuScene.tscn:964
@@ -188,8 +186,6 @@ msgid "Tutorial"
 msgstr "Велӧдӧмтор"
 
 #: Scenes/MenuScene.tscn:1733 Scripts/Menu/stat_info_tree.gd:25
-#, fuzzy
-#| msgid "GameMode"
 msgid "Gamemode"
 msgstr "Ворсанног"
 
@@ -256,19 +252,15 @@ msgstr ""
 "Чышкыны-ӧ мыччӧдтӧ?"
 
 #: Scripts/camera_control.gd:73
-#, fuzzy
-#| msgid "Double"
 msgid "Double Tap"
-msgstr "Кыкмӧм"
+msgstr ""
 
 #: Scripts/camera_control.gd:75
 msgid "Long Press"
 msgstr ""
 
 #: Scripts/camera_control.gd:80
-#, fuzzy
-#| msgid "Difficulty Menu"
-msgid "Difficulty Menu:"
+msgid "Difficulty Menu"
 msgstr "Сьӧкыдлун бӧрйӧм"
 
 #: Scripts/camera_control.gd:84
@@ -302,8 +294,6 @@ msgid "Level"
 msgstr ""
 
 #: Scripts/GameMechanics/GameManager.gd:170
-#, fuzzy
-#| msgid "Difficulty Menu"
 msgid "Difficulty"
 msgstr "Сьӧкыдлун бӧрйӧм"
 
