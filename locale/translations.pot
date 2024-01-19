@@ -17,18 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: Scenes/Game.tscn:691
-msgid "000.0"
-msgstr ""
-
-#: Scenes/Game.tscn:700
-msgid "+ 50.0"
-msgstr ""
-
-#: Scenes/Game.tscn:722
-msgid "0      00"
-msgstr ""
-
 #: Scenes/Game.tscn:894 Scenes/Game.tscn:971
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:22
 msgid "Restart"
@@ -84,7 +72,7 @@ msgid "Language Menu"
 msgstr ""
 
 #: Scenes/MenuScene.tscn:934
-msgid "language"
+msgid "Language"
 msgstr ""
 
 #: Scenes/MenuScene.tscn:964
