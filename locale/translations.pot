@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-18 11:01+0200\n"
+"POT-Creation-Date: 2024-01-19 13:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,7 +71,7 @@ msgstr ""
 msgid "Language Menu"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:934
+#: Scenes/MenuScene.tscn:934 Scenes/MenuScene.tscn:1176
 msgid "Language"
 msgstr ""
 
@@ -83,7 +83,7 @@ msgstr ""
 msgid "Quit"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1016 Scenes/MenuScene.tscn:2545
+#: Scenes/MenuScene.tscn:1016 Scenes/MenuScene.tscn:2554
 msgid "Info"
 msgstr ""
 
@@ -91,13 +91,13 @@ msgstr ""
 msgid "Options"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1071 Scenes/MenuScene.tscn:2067
+#: Scenes/MenuScene.tscn:1071 Scenes/MenuScene.tscn:2069
 msgid "Stats"
 msgstr ""
 
 #: Scenes/MenuScene.tscn:1127 Scenes/MenuScene.tscn:1692
-#: Scenes/MenuScene.tscn:1972 Scenes/MenuScene.tscn:2158
-#: Scenes/MenuScene.tscn:2534
+#: Scenes/MenuScene.tscn:1973 Scenes/MenuScene.tscn:2160
+#: Scenes/MenuScene.tscn:2542
 msgid "Back"
 msgstr ""
 
@@ -105,24 +105,24 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1176
-msgid "Language"
-msgstr ""
-
-#: Scenes/MenuScene.tscn:1209
+#: Scenes/MenuScene.tscn:1208
 msgid "Change your sound options here!"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1282
+#: Scenes/MenuScene.tscn:1281
 msgid "Adjust your controls here!"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1300
+#: Scenes/MenuScene.tscn:1299
 msgid "Quickdrop Method:"
 msgstr ""
 
 #: Scenes/MenuScene.tscn:1326
 msgid "Extra things to change"
+msgstr ""
+
+#: Scenes/MenuScene.tscn:1348 Scenes/MenuScene.tscn:1485
+msgid "5 / ??"
 msgstr ""
 
 #: Scenes/MenuScene.tscn:1522
@@ -139,16 +139,16 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1579 Scenes/MenuScene.tscn:2047
+#: Scenes/MenuScene.tscn:1579 Scenes/MenuScene.tscn:2048
 msgid "No"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1614 Scenes/MenuScene.tscn:1927
+#: Scenes/MenuScene.tscn:1614 Scenes/MenuScene.tscn:1928
 #: Scripts/Menu/Stats.gd:25 Scripts/Menu/stat_info_tree.gd:57
 msgid "Quickplay"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1640 Scenes/MenuScene.tscn:1949
+#: Scenes/MenuScene.tscn:1640 Scenes/MenuScene.tscn:1950
 #: Scripts/Menu/Stats.gd:28 Scripts/Menu/stat_info_tree.gd:60
 msgid "Infinite"
 msgstr ""
@@ -158,43 +158,43 @@ msgstr ""
 msgid "Timed"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1720 Scenes/MenuScene.tscn:1875
+#: Scenes/MenuScene.tscn:1720 Scenes/MenuScene.tscn:1876
 msgid "Tutorial"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1733 Scripts/Menu/stat_info_tree.gd:25
+#: Scenes/MenuScene.tscn:1734 Scripts/Menu/stat_info_tree.gd:25
 msgid "Gamemode"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1782 Scripts/Menu/Stats.gd:63
+#: Scenes/MenuScene.tscn:1783 Scripts/Menu/Stats.gd:63
 #: Scripts/Menu/stat_info_tree.gd:85
 msgid "Normal"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1807 Scripts/Menu/Stats.gd:65
+#: Scenes/MenuScene.tscn:1808 Scripts/Menu/Stats.gd:65
 #: Scripts/Menu/stat_info_tree.gd:87
 msgid "Hard"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1831 Scripts/Menu/Stats.gd:67
+#: Scenes/MenuScene.tscn:1832 Scripts/Menu/Stats.gd:67
 #: Scripts/Menu/stat_info_tree.gd:89
 msgid "Expert"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1856 Scripts/Menu/Stats.gd:69
+#: Scenes/MenuScene.tscn:1857 Scripts/Menu/Stats.gd:69
 #: Scripts/Menu/stat_info_tree.gd:91
 msgid "Ludicrous"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1908
+#: Scenes/MenuScene.tscn:1909
 msgid "Basics:"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:1999
+#: Scenes/MenuScene.tscn:2000
 msgid "Tips"
 msgstr ""
 
-#: Scenes/MenuScene.tscn:2511
+#: Scenes/MenuScene.tscn:2519
 msgid "Credits"
 msgstr ""
 

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-18 11:01+0200\n"
-"PO-Revision-Date: 2024-01-18 11:15+0200\n"
+"POT-Creation-Date: 2024-01-19 13:33+0200\n"
+"PO-Revision-Date: 2024-01-19 14:00+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -18,18 +18,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.9.1\n"
 "X-Generator: Poedit 3.4.2\n"
-
-#: Scenes/Game.tscn:691
-msgid "000.0"
-msgstr ""
-
-#: Scenes/Game.tscn:700
-msgid "+ 50.0"
-msgstr ""
-
-#: Scenes/Game.tscn:722
-msgid "0      00"
-msgstr ""
 
 #: Scenes/Game.tscn:894 Scenes/Game.tscn:971
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:22
@@ -47,15 +35,15 @@ msgstr "Jatka"
 
 #: Scenes/Game.tscn:1051
 msgid "Left"
-msgstr ""
+msgstr "Vasen"
 
 #: Scenes/Game.tscn:1068
 msgid "Middle"
-msgstr ""
+msgstr "Keski"
 
 #: Scenes/Game.tscn:1085
 msgid "Right"
-msgstr ""
+msgstr "Oikein"
 
 #: Scenes/LanguageMenu.tscn:42
 msgid "English"
@@ -85,7 +73,7 @@ msgstr ""
 msgid "Language Menu"
 msgstr "Kielivalikko"
 
-#: Scenes/MenuScene.tscn:934
+#: Scenes/MenuScene.tscn:934 Scenes/MenuScene.tscn:1176
 msgid "Language"
 msgstr "Kieli"
 
@@ -97,7 +85,7 @@ msgstr "Aloita"
 msgid "Quit"
 msgstr "Lopeta"
 
-#: Scenes/MenuScene.tscn:1016 Scenes/MenuScene.tscn:2545
+#: Scenes/MenuScene.tscn:1016 Scenes/MenuScene.tscn:2554
 msgid "Info"
 msgstr "Tietoa"
 
@@ -105,13 +93,13 @@ msgstr "Tietoa"
 msgid "Options"
 msgstr "Asetukset"
 
-#: Scenes/MenuScene.tscn:1071 Scenes/MenuScene.tscn:2067
+#: Scenes/MenuScene.tscn:1071 Scenes/MenuScene.tscn:2069
 msgid "Stats"
 msgstr "Pisteet"
 
 #: Scenes/MenuScene.tscn:1127 Scenes/MenuScene.tscn:1692
-#: Scenes/MenuScene.tscn:1972 Scenes/MenuScene.tscn:2158
-#: Scenes/MenuScene.tscn:2534
+#: Scenes/MenuScene.tscn:1973 Scenes/MenuScene.tscn:2160
+#: Scenes/MenuScene.tscn:2542
 msgid "Back"
 msgstr "Takaisin"
 
@@ -119,24 +107,24 @@ msgstr "Takaisin"
 msgid "Delete"
 msgstr "Poista"
 
-#: Scenes/MenuScene.tscn:1176
-msgid "Language"
-msgstr "Kieli"
-
-#: Scenes/MenuScene.tscn:1209
+#: Scenes/MenuScene.tscn:1208
 msgid "Change your sound options here!"
-msgstr ""
+msgstr "Säätää äänet täällä!"
 
-#: Scenes/MenuScene.tscn:1282
+#: Scenes/MenuScene.tscn:1281
 msgid "Adjust your controls here!"
-msgstr ""
+msgstr "Säätää säätimiäsi täällä"
 
-#: Scenes/MenuScene.tscn:1300
+#: Scenes/MenuScene.tscn:1299
 msgid "Quickdrop Method:"
 msgstr ""
 
 #: Scenes/MenuScene.tscn:1326
 msgid "Extra things to change"
+msgstr "Muita säädintä"
+
+#: Scenes/MenuScene.tscn:1348 Scenes/MenuScene.tscn:1485
+msgid "5 / ??"
 msgstr ""
 
 #: Scenes/MenuScene.tscn:1522
@@ -160,16 +148,16 @@ msgstr ""
 msgid "Yes"
 msgstr "Olen"
 
-#: Scenes/MenuScene.tscn:1579 Scenes/MenuScene.tscn:2047
+#: Scenes/MenuScene.tscn:1579 Scenes/MenuScene.tscn:2048
 msgid "No"
 msgstr "En"
 
-#: Scenes/MenuScene.tscn:1614 Scenes/MenuScene.tscn:1927
+#: Scenes/MenuScene.tscn:1614 Scenes/MenuScene.tscn:1928
 #: Scripts/Menu/Stats.gd:25 Scripts/Menu/stat_info_tree.gd:57
 msgid "Quickplay"
 msgstr "Pika-peli"
 
-#: Scenes/MenuScene.tscn:1640 Scenes/MenuScene.tscn:1949
+#: Scenes/MenuScene.tscn:1640 Scenes/MenuScene.tscn:1950
 #: Scripts/Menu/Stats.gd:28 Scripts/Menu/stat_info_tree.gd:60
 msgid "Infinite"
 msgstr "Päättymätön"
@@ -179,43 +167,43 @@ msgstr "Päättymätön"
 msgid "Timed"
 msgstr "Ajastettu"
 
-#: Scenes/MenuScene.tscn:1720 Scenes/MenuScene.tscn:1875
+#: Scenes/MenuScene.tscn:1720 Scenes/MenuScene.tscn:1876
 msgid "Tutorial"
 msgstr "Tutoriaali"
 
-#: Scenes/MenuScene.tscn:1733 Scripts/Menu/stat_info_tree.gd:25
+#: Scenes/MenuScene.tscn:1734 Scripts/Menu/stat_info_tree.gd:25
 msgid "Gamemode"
 msgstr "Pelitila"
 
-#: Scenes/MenuScene.tscn:1782 Scripts/Menu/Stats.gd:63
+#: Scenes/MenuScene.tscn:1783 Scripts/Menu/Stats.gd:63
 #: Scripts/Menu/stat_info_tree.gd:85
 msgid "Normal"
 msgstr "Normaali"
 
-#: Scenes/MenuScene.tscn:1807 Scripts/Menu/Stats.gd:65
+#: Scenes/MenuScene.tscn:1808 Scripts/Menu/Stats.gd:65
 #: Scripts/Menu/stat_info_tree.gd:87
 msgid "Hard"
 msgstr "Vaikea"
 
-#: Scenes/MenuScene.tscn:1831 Scripts/Menu/Stats.gd:67
+#: Scenes/MenuScene.tscn:1832 Scripts/Menu/Stats.gd:67
 #: Scripts/Menu/stat_info_tree.gd:89
 msgid "Expert"
 msgstr "Asiantuntja"
 
-#: Scenes/MenuScene.tscn:1856 Scripts/Menu/Stats.gd:69
+#: Scenes/MenuScene.tscn:1857 Scripts/Menu/Stats.gd:69
 #: Scripts/Menu/stat_info_tree.gd:91
 msgid "Ludicrous"
 msgstr "Synnynäinen"
 
-#: Scenes/MenuScene.tscn:1908
+#: Scenes/MenuScene.tscn:1909
 msgid "Basics:"
-msgstr ""
+msgstr "Perusasiat"
 
-#: Scenes/MenuScene.tscn:1999
+#: Scenes/MenuScene.tscn:2000
 msgid "Tips"
-msgstr ""
+msgstr "Vinkit"
 
-#: Scenes/MenuScene.tscn:2511
+#: Scenes/MenuScene.tscn:2519
 msgid "Credits"
 msgstr "Tekijät"
 
@@ -225,11 +213,11 @@ msgstr "TÄTÄ PELIÄ VIELÄ KEHITETÄÄN"
 
 #: Scenes/SplashScreen.tscn:197
 msgid "Headphones are recommended"
-msgstr ""
+msgstr "Kuulokkeita suositellaan"
 
 #: Scenes/SplashScreen.tscn:208
 msgid "A game by: WillRU"
-msgstr ""
+msgstr "Peli tekijältä: WillRU"
 
 #: Scenes/SplashScreen.tscn:232
 msgid ""
@@ -250,12 +238,12 @@ msgstr ""
 "Poistetaanko tiedostot?"
 
 #: Scripts/camera_control.gd:73
-msgid "Double"
-msgstr "Tuplaa"
+msgid "Double Tap"
+msgstr "Kaksoisnapauta"
 
 #: Scripts/camera_control.gd:75
 msgid "Long Press"
-msgstr ""
+msgstr "Pidä-painike"
 
 #: Scripts/camera_control.gd:80
 msgid "Difficulty Menu"
@@ -263,15 +251,15 @@ msgstr "Vaikeusaste"
 
 #: Scripts/camera_control.gd:84
 msgid "Play one quick round."
-msgstr ""
+msgstr "Pelaa yksi nopea peli"
 
 #: Scripts/camera_control.gd:88
 msgid "Play for as long as you want."
-msgstr ""
+msgstr "Pelaa niin kauan kuin haluat"
 
 #: Scripts/camera_control.gd:91
 msgid "Play for as long as the time lasts."
-msgstr ""
+msgstr "Pelaa aikarajan sisällä"
 
 #: Scripts/ButtonBehaviour/ingame_ui_buttons.gd:60
 msgid "GAME PAUSED"
@@ -289,11 +277,9 @@ msgstr "PARAS KOMBO"
 
 #: Scripts/GameMechanics/GameManager.gd:170
 msgid "Level"
-msgstr ""
+msgstr "Taso"
 
 #: Scripts/GameMechanics/GameManager.gd:170
-#, fuzzy
-#| msgid "Difficulty Menu"
 msgid "Difficulty"
 msgstr "Vaikeusaste"
 
@@ -375,45 +361,35 @@ msgstr "Värimaailma"
 
 #: Scripts/Menu/stat_info_tree.gd:17
 msgid "Player Stats"
-msgstr ""
+msgstr "Pelaajan pisteet"
 
 #: Scripts/Menu/stat_info_tree.gd:35
-#, fuzzy
-#| msgid "Stats"
 msgid "Misc. Stats"
-msgstr "Pisteet"
+msgstr "Eri pisteet"
 
 #: Scripts/Menu/stat_info_tree.gd:119
-#, fuzzy
-#| msgid "All Clear"
 msgid "Blocks Cleared"
-msgstr "Kaikki sileäksi"
+msgstr "Neliöt poistettu"
 
 #: Scripts/Menu/stat_info_tree.gd:122
-#, fuzzy
-#| msgid "Deadlock"
 msgid "Deadlock Count"
-msgstr "Tosi ovela"
+msgstr ""
 
 #: Scripts/Menu/stat_info_tree.gd:125
-#, fuzzy
-#| msgid "Double"
 msgid "Double Count"
-msgstr "Tuplaa"
+msgstr "Tuplaus määrä"
 
 #: Scripts/Menu/stat_info_tree.gd:128
 msgid "Left Turns"
-msgstr ""
+msgstr "Vasen Käänökset"
 
 #: Scripts/Menu/stat_info_tree.gd:131
-#, fuzzy
-#| msgid "Quickplay"
 msgid "Quick Drops"
-msgstr "Pika-peli"
+msgstr ""
 
 #: Scripts/Menu/stat_info_tree.gd:134
 msgid "Right Turns"
-msgstr ""
+msgstr "Oikein Käänökset"
 
 #: Scripts/Menu/stat_info_tree.gd:137
 msgid "Swish Count"
@@ -421,13 +397,20 @@ msgstr ""
 
 #: Scripts/Menu/stat_info_tree.gd:140
 msgid "Impossibles"
-msgstr ""
+msgstr "Mahdottomia"
+
+#, fuzzy
+#~| msgid "Language"
+#~ msgid "language"
+#~ msgstr "Kieli"
+
+#, fuzzy
+#~| msgid "Difficulty Menu"
+#~ msgid "Difficulty Menu:"
+#~ msgstr "Vaikeusaste"
 
 #~ msgid "GameMode"
 #~ msgstr "Pelitila"
-
-#~ msgid "Difficulty Menu"
-#~ msgstr "Vaikeusaste"
 
 #~ msgid "QuickPlay"
 #~ msgstr "Pika-peli"
