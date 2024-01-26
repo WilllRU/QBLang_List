@@ -113,7 +113,7 @@ msgstr "Säätää äänet täällä!"
 
 #: Scenes/MenuScene.tscn:1281
 msgid "Adjust your controls here!"
-msgstr "Säätää säätimiäsi täällä"
+msgstr "Säätää säätimiäsi täällä!"
 
 #: Scenes/MenuScene.tscn:1299
 msgid "Quickdrop Method:"
@@ -121,7 +121,7 @@ msgstr ""
 
 #: Scenes/MenuScene.tscn:1326
 msgid "Extra things to change"
-msgstr "Muita säädintä"
+msgstr "Muita säädintä!"
 
 #: Scenes/MenuScene.tscn:1348 Scenes/MenuScene.tscn:1485
 msgid "5 / ??"
